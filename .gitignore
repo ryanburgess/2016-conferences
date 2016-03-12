@@ -6,3 +6,4 @@
 *.log
 node_modules/
 get.js
+lanyrd.js
