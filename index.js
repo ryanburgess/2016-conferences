@@ -7,8 +7,8 @@ fs.readFile('./list.json', 'utf8', function (err, data) {
 
   for (var key in obj) {
     content += '\n## [' + obj[key].title + '](' + obj[key].url + ')\n';
-    content += 'Where: ' + obj[key].where + '\n';
-    content += 'When: ' + obj[key].when + '\n';
+    content += '**Where:** ' + obj[key].where + '\n\n';
+    content += '**When:** ' + obj[key].when + '\n\n';
   }
 
   fs.appendFile('./README.md', content, function (err) {
