@@ -1,4 +1,6 @@
 # 2016 Web Development Conferences
+A list of 2016 web development conferences.
+
 ## [JS Remote Conf](https://jsremoteconf.com/)
 **Where:** Online
 
