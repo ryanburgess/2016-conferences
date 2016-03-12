@@ -1,0 +1,584 @@
+[
+  {
+    "title": "JS Remote Conf",
+    "url": "https://jsremoteconf.com/",
+    "where": "Online",
+    "when": "January 14–16, 2016"
+  },
+  {
+    "title": "O’Reilly Design Conference",
+    "url": "http://oreil.ly/1NRw8kd",
+    "where": "San Francisco, CA, USA",
+    "when": "January 19–22, 2016"
+  },
+  {
+    "title": "SVG Summit 2016",
+    "url": "http://environmentsforhumans.com/2016/svg-summit/",
+    "where": "Online",
+    "when": "January 21, 2016"
+  },
+  {
+    "title": "Awwwards Conference – Amsterdam 2016",
+    "url": "http://conference.awwwards.com/amsterdam-2016/",
+    "where": "Amsterdam, Netherlands",
+    "when": "January 27–29, 2016"
+  },
+  {
+    "title": "A Day of REST",
+    "url": "http://feelingrestful.com/",
+    "where": "London, UK",
+    "when": "January 28, 2016"
+  },
+  {
+    "title": "VOXXED Days Berlin 2016",
+    "url": "https://voxxeddays.com/berlin16/",
+    "where": "Berlin, Germany",
+    "when": "January 28–29, 2016"
+  },
+  {
+    "title": "PhoneGap Day US 2016",
+    "url": "http://pgday.phonegap.com/",
+    "where": "Lehi, UT, USA",
+    "when": "January 28–29, 2016"
+  },
+  {
+    "title": "Agile Content Conf 2016",
+    "url": "https://2016.agilecontentconf.com/",
+    "where": "London, UK",
+    "when": "February 1–2, 2016"
+  },
+  {
+    "title": "JFokus 2016",
+    "url": "http://www.jfokus.se/jfokus/",
+    "where": "Stockholm, Sweden",
+    "when": "February 8–10, 2016"
+  },
+  {
+    "title": "SustainableUX",
+    "url": "http://sustainableux.com/",
+    "where": "Online",
+    "when": "February 9, 2016"
+  },
+  {
+    "title": "ConveyUX 2016",
+    "url": "http://conveyux.com/",
+    "where": "Seattle, WA, USA",
+    "when": "February 9–11, 2016"
+  },
+  {
+    "title": "Webstock 2016",
+    "url": "http://www.webstock.org.nz/16/",
+    "where": "Wellington, New Zealand",
+    "when": "February 9–12, 2016"
+  },
+  {
+    "title": "DevNexus 2016",
+    "url": "http://www.devnexus.com/",
+    "where": "Atlanta, GA, USA",
+    "when": "February 15–17, 2016"
+  },
+  {
+    "title": "Open Set Soul Edition 2016",
+    "url": "http://www.openset.nl/oskorea/opensetdutchdesignseoulsessions_en.html",
+    "where": "Seoul, South Korea",
+    "when": "February 15–27, 2016"
+  },
+  {
+    "title": "Mobile Growth Summit 2016",
+    "url": "http://bit.ly/MobileGrowthSummit16",
+    "where": "San Francisco, CA, USA",
+    "when": "February 17–18, 2016"
+  },
+  {
+    "title": "World IA Day 2016",
+    "url": "http://www.2016.worldiaday.org/",
+    "where": "At locations on every continent",
+    "when": "February 20, 2016"
+  },
+  {
+    "title": "Bulgaria Web Summit 2016",
+    "url": "http://bulgariawebsummit.com/",
+    "where": "Sofia, Bulgaria",
+    "when": "February 20, 2016"
+  },
+  {
+    "title": "The Rolling Scopes Conference",
+    "url": "http://2016.conf.rollingscopes.com/",
+    "where": "Minsk, Belarus",
+    "when": "February 20–21, 2016"
+  },
+  {
+    "title": "React.js Conf",
+    "url": "http://conf.reactjs.com/",
+    "where": "San Francisco, CA, USA",
+    "when": "February 22–23, 2016"
+  },
+  {
+    "title": "UX Riga 2016",
+    "url": "http://www.uxriga.lv/",
+    "where": "Riga, Latvia",
+    "when": "February 25, 2016"
+  },
+  {
+    "title": "Typoday 2016",
+    "url": "http://www.typoday.in/",
+    "where": "Bangalore, India",
+    "when": "February 25–27, 2016"
+  },
+  {
+    "title": "Planning for a Higher Ed Website Redesign",
+    "url": "http://www.academicimpressions.com/conference/planning-higher-ed-website-redesign",
+    "where": "Cincinnati, OH, USA",
+    "when": "February 29–March 2, 2016"
+  },
+  {
+    "title": "Interaction16",
+    "url": "http://interaction16.ixda.org/",
+    "where": "Helsinki, Finland",
+    "when": "March 1–4, 2016"
+  },
+  {
+    "title": "Riga Dev Day 2016",
+    "url": "http://www.rigadevday.lv/",
+    "where": "Riga, Latvia",
+    "when": "March 2–4, 2016"
+  },
+  {
+    "title": "Voxxed Days Zurich",
+    "url": "https://voxxeddays.com/zurich16/",
+    "where": "Zurich, Switzerland",
+    "when": "March 3, 2016"
+  },
+  {
+    "title": "MIDWEST PHP 2016",
+    "url": "http://2016.midwestphp.org/",
+    "where": "Minneapolis, MN, USA",
+    "when": "March 4–5, 2016"
+  },
+  {
+    "title": "QCon London 2016",
+    "url": "http://qconlondon.com/",
+    "where": "London, UK",
+    "when": "March 7–11, 2016"
+  },
+  {
+    "title": "O’Reilly Fluent Conference 2016",
+    "url": "http://conferences.oreilly.com/fluent/javascript-html-us",
+    "where": "San Francisco, CA",
+    "when": "March 8–10, 2016"
+  },
+  {
+    "title": "UXHK 2016",
+    "url": "http://www.uxhongkong.com/",
+    "where": "Hong Kong, China",
+    "when": "March 11–12, 2016"
+  },
+  {
+    "title": "SXSW 2016",
+    "url": "http://www.sxsw.com/",
+    "where": "Austin, TX, USA",
+    "when": "March 11–20, 2016"
+  },
+  {
+    "title": "MobileTech Conference Spring 2016",
+    "url": "https://mobiletechcon.de/",
+    "where": "Munich, Germany",
+    "when": "March 14–17, 2016"
+  },
+  {
+    "title": "SmashingConf Oxford 2016",
+    "url": "http://www.smashingconf.com/",
+    "where": "Oxford, UK",
+    "when": "March 15–16, 2016"
+  },
+  {
+    "title": "DIBI 2016",
+    "url": "http://dibiconference.com/",
+    "where": "Edinburgh, UK",
+    "when": "March 17–18, 2016"
+  },
+  {
+    "title": "EmberConf 2016",
+    "url": "http://emberconf.com/",
+    "where": "Portland, OR, USA",
+    "when": "March 28–30, 2016"
+  },
+  {
+    "title": "QCon SP 2016",
+    "url": "http://qconsp.com/",
+    "where": "São Paolo, Brazil",
+    "when": "March 28–April 1, 2016"
+  },
+  {
+    "title": "UX in the City: Oxford 2016",
+    "url": "http://uxinthecity.net/2016/oxford/",
+    "where": "Oxford, UK",
+    "when": "March 31–April 1, 2016"
+  },
+  {
+    "title": "Fronteers Spring Thing 2016",
+    "url": "https://fronteers.nl/spring",
+    "where": "Amsterdam, Netherlands",
+    "when": "April 1, 2016"
+  },
+  {
+    "title": "Space City JS 2016",
+    "url": "http://spacecity.codes/",
+    "where": "Houston, TX, USA",
+    "when": "April 2, 2016"
+  },
+  {
+    "title": "MobCon Europe 2016",
+    "url": "http://mobcon.com/mobcon-europe/",
+    "where": "Sofia, Bulgaria",
+    "when": "April 4, 2016"
+  },
+  {
+    "title": "An Event Apart 2016: Seattle",
+    "url": "http://aneventapart.com/event/seattle-2016",
+    "where": "Seattle, WA, USA",
+    "when": "April 4–6, 2016"
+  },
+  {
+    "title": "SmashingConf San Francisco 2016",
+    "url": "http://smashingconf.com/sf-2016/",
+    "where": "San Francisco, CA, USA",
+    "when": "April 5–6, 2016"
+  },
+  {
+    "title": "Le Web a Quebec 2016 — 6e edition",
+    "url": "http://www.webaquebec.org/",
+    "where": "Quebec, Canada",
+    "when": "April 6–8, 2016"
+  },
+  {
+    "title": "WebVisions New York City 2016",
+    "url": "http://www.webvisionsevent.com/",
+    "where": "New York City, NY, USA",
+    "when": "April 7, 2016"
+  },
+  {
+    "title": "Respond 2016",
+    "url": "http://www.webdirections.org/respond16/",
+    "where": "Melbourne, Australia",
+    "when": "April 11-12, 2016"
+  },
+  {
+    "title": "Lone Star PHP 2016",
+    "url": "http://lonestarphp.com/",
+    "where": "Dallas, TX, USA",
+    "when": "April 7–9, 2016"
+  },
+  {
+    "title": "Jazoon Techdays Spring 2016",
+    "url": "http://jazoon.com/",
+    "where": "Berne, Switzerland",
+    "when": "April 8, 2016"
+  },
+  {
+    "title": "Yggdrasil 2016",
+    "url": "http://yggdrasilkonferansen.no/",
+    "where": "Sandefjord, Norway",
+    "when": "April 11–12, 2016"
+  },
+  {
+    "title": "Now What? Conference 2016",
+    "url": "http://www.nowwhatconference.com/",
+    "where": "Sioux Falls, SD, USA",
+    "when": "April 13–14, 2016"
+  },
+  {
+    "title": "Peers Conference 2016",
+    "url": "http://peersconf.com/",
+    "where": "St. Petersburg, FL, USA",
+    "when": "April 13–15, 2016"
+  },
+  {
+    "title": "ConvergeSE 2016",
+    "url": "http://convergese.com/",
+    "where": "Columbia, SC, USA",
+    "when": "April 13–15, 2016"
+  },
+  {
+    "title": "ACE! 2016",
+    "url": "http://aceconf.com/",
+    "where": "Krakow, Poland",
+    "when": "April 14–15, 2016"
+  },
+  {
+    "title": "From Business to Buttons",
+    "url": "http://frombusinesstobuttons.com/",
+    "where": "Stockholm, Sweden",
+    "when": "April 14–16, 2016"
+  },
+  {
+    "title": "JSConf 2016",
+    "url": "https://jsconf.uy/",
+    "where": "Montevideo, Uruguay",
+    "when": "April 15–16, 2016"
+  },
+  {
+    "title": "Industry Conf 2016",
+    "url": "http://2016.industryconf.com/",
+    "where": "Newcastle Upon Tyne, UK",
+    "when": "April 20, 2016"
+  },
+  {
+    "title": "Render 2016",
+    "url": "http://www.render-conf.com/",
+    "where": "Oxford, UK",
+    "when": "April 21–22, 2016"
+  },
+  {
+    "title": "MCE3",
+    "url": "http://mceconf.com/",
+    "where": "Warsaw, Poland",
+    "when": "April 21–22, 2016"
+  },
+  {
+    "title": "Generate NYC 2016",
+    "url": "http://www.generateconf.com/new-york-2016",
+    "where": "New York City, NY, USA",
+    "when": "April 22, 2016"
+  },
+  {
+    "title": "Open Vis Conf",
+    "url": "https://openvisconf.com/",
+    "where": "Boston, MA, USA",
+    "when": "April 25–26, 2016"
+  },
+  {
+    "title": "M2M WORLD CONGRESS 2016",
+    "url": "http://www.m2mconference.com/",
+    "where": "London, UK",
+    "when": "April 26–27, 2016"
+  },
+  {
+    "title": "Future Insights Live, Chicago 2016",
+    "url": "http://futureinsightslive.com/",
+    "where": "Chicago, IL, USA",
+    "when": "May 2–5, 2016"
+  },
+  {
+    "title": "NG-Conf 2016",
+    "url": "http://www.ng-conf.org/",
+    "where": "Salt Lake City, UT, USA",
+    "when": "May 4–6, 2016"
+  },
+  {
+    "title": "IA Summit 2016",
+    "url": "http://2016.iasummit.org/",
+    "where": "Atlanta, GA, USA",
+    "when": "May 4–8, 2016"
+  },
+  {
+    "title": "Syntax Convention 2016",
+    "url": "http://syntaxcon.com/",
+    "where": "Charleston, SC, USA",
+    "when": "May 6–7, 2016"
+  },
+  {
+    "title": "beyond tellerrand (BTconf) // Dusseldorf 2016",
+    "url": "http://beyondtellerrand.com/",
+    "where": "Dusseldorf, Germany",
+    "when": "May 8–11, 2016"
+  },
+  {
+    "title": "DRUPALCON New Orleans 2016",
+    "url": "https://events.drupal.org/neworleans2016",
+    "where": "New Orleans, LA, USA",
+    "when": "May 9–13, 2016"
+  },
+  {
+    "title": "CSSConf Budapest 2016",
+    "url": "http://cssconfbp.rocks/",
+    "where": "Budapest, Hungary",
+    "when": "May 11, 2016"
+  },
+  {
+    "title": "JsDay 2016",
+    "url": "http://2016.jsday.it/",
+    "where": "Verona, Italy",
+    "when": "May 11–12, 2016"
+  },
+  {
+    "title": "UX Alive 2016",
+    "url": "http://www.uxalive.com/",
+    "where": "Istanbul, Turkey",
+    "when": "May 11–13, 2016"
+  },
+  {
+    "title": "Create Upstate",
+    "url": "http://createupstate.com/",
+    "where": "Syracuse, NY, USA",
+    "when": "May 12–13, 2016"
+  },
+  {
+    "title": "Front 2016",
+    "url": "http://www.frontutah.com/",
+    "where": "Salt Lake City, UT, USA",
+    "when": "May 12–13, 2016"
+  },
+  {
+    "title": "JSConf Budapest 2016",
+    "url": "http://jsconfbp.com/",
+    "where": "Budapest, Hungary",
+    "when": "May 12–13, 2016"
+  },
+  {
+    "title": "phpDay 2016",
+    "url": "http://2016.phpday.it/",
+    "where": "Verona, Italy",
+    "when": "May 13–14, 2016"
+  },
+  {
+    "title": "SDD 2016",
+    "url": "http://www.sddconf.com/",
+    "where": "London, UK",
+    "when": "May 16–20, 2016"
+  },
+  {
+    "title": "OSCON 2016",
+    "url": "http://conferences.oreilly.com/oscon/open-source-us",
+    "where": "Austin, TX, USA",
+    "when": "May 18–19, 2016"
+  },
+  {
+    "title": "UX London 2016",
+    "url": "http://2016.uxlondon.com/",
+    "where": "London, UK",
+    "when": "May 18–20, 2016"
+  },
+  {
+    "title": "Front-Trends 2016",
+    "url": "http://front-trends.com/",
+    "where": "Warsaw, Poland",
+    "when": "May 18–20, 2016"
+  },
+  {
+    "title": "Port 80",
+    "url": "http://port80events.co.uk/",
+    "where": "Newport, UK",
+    "when": "May 20, 2016"
+  },
+  {
+    "title": "GOTO Chicago 2016",
+    "url": "http://gotocon.com/chicago-2016",
+    "where": "Chicago, IL, USA",
+    "when": "May 23–26, 2016"
+  },
+  {
+    "title": "UXLx – User Experience Lisbon 2016",
+    "url": "https://www.ux-lx.com/",
+    "where": "Lisbon, Portugal",
+    "when": "May 24–27, 2016"
+  },
+  {
+    "title": "UpFront 2016",
+    "url": "http://upfrontconf.com/",
+    "where": "Manchester, UK",
+    "when": "May 27, 2016"
+  },
+  {
+    "title": "Frontend United 2016",
+    "url": "http://frontendunited.org/",
+    "where": "Ghent, Belgium",
+    "when": "May 27–28, 2016"
+  },
+  {
+    "title": "Sud Web 2016",
+    "url": "http://sudweb.fr/",
+    "where": "Bordeaux, France",
+    "when": "May 27–28, 2016"
+  },
+  {
+    "title": "Webinale 2016",
+    "url": "https://webinale.de/",
+    "where": "Berlin, Germany",
+    "when": "May 29–June 02, 2016"
+  },
+  {
+    "title": "UXPA 2016",
+    "url": "http://www.uxpa2016.org/",
+    "where": "Seattle, WA, USA",
+    "when": "May 31–June 03, 2016"
+  },
+  {
+    "title": "CSSconf Nordic 2016",
+    "url": "http://cssconf.no/",
+    "where": "Oslo, Norway",
+    "when": "June 1, 2016"
+  },
+  {
+    "title": "ScotlandCSS 2016",
+    "url": "http://scotlandcss.launchrock.com/",
+    "where": "Edinburgh, UK",
+    "when": "June 1, 2016"
+  },
+  {
+    "title": "Web Rebels 2016",
+    "url": "https://www.webrebels.org/",
+    "where": "Oslo, Norway",
+    "when": "June 2–3, 2016"
+  },
+  {
+    "title": "Soap! 2016",
+    "url": "http://soapconf.com/",
+    "where": "Krakow, Poland",
+    "when": "June 2–3, 2016"
+  },
+  {
+    "title": "UXScotland 2016",
+    "url": "http://uxscotland.net/2016/",
+    "where": "Edinburgh, UK",
+    "when": "June 8–10, 2016"
+  },
+  {
+    "title": "M-Enabling Summit 2016",
+    "url": "http://www.m-enabling.com/",
+    "where": "Washington, D.C., USA",
+    "when": "June 13–14, 2016"
+  },
+  {
+    "title": "QCon New York 2016",
+    "url": "https://qconnewyork.com/",
+    "where": "New York City, NY, USA",
+    "when": "June 13–17, 2016"
+  },
+  {
+    "title": "FrontEnd Design Conference 2016",
+    "url": "http://frontenddesignconference.com/",
+    "where": "St. Petersburg, FL, USA",
+    "when": "June 15–17, 2016"
+  },
+  {
+    "title": "Droidcon Berlin 2016",
+    "url": "http://droidcon.de/",
+    "where": "Berlin, Germany",
+    "when": "June 15–17, 2016"
+  },
+  {
+    "title": "DWX Developer Week 2016",
+    "url": "http://www.developer-week.de/",
+    "where": "Nuremberg, Germany",
+    "when": "June 20–23, 2016"
+  },
+  {
+    "title": "Devoxx Poland 2016",
+    "url": "http://devoxx.pl/",
+    "where": "Krakow, Poland",
+    "when": "June 22–25, 2016"
+  },
+  {
+    "title": "The Lead Developer 2016",
+    "url": "http://2016.theleaddeveloper.com/",
+    "where": "London, UK",
+    "when": "June 23–24, 2016"
+  },
+  {
+    "title": "Dutch PHP Conference 2016",
+    "url": "http://www.phpconference.nl/",
+    "where": "Amsterdam, Netherlands",
+    "when": "June 23–25, 2016"
+  }
+]
