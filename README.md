@@ -582,3 +582,147 @@ A list of 2016 web development conferences.
 
 **When:** June 23–25, 2016
 
+
+## [Dev Bootcamp San Francisco March Info Session](https://www.eventbrite.com/…san-francisco-march-info-session-tickets-22132155874?ref=ebapi)
+**Where:** United States,San Francisco
+
+**When:** 14th March 2016
+
+
+## [Ruby for Beginners](https://www.eventbrite.com/e/ruby-for-beginners-tickets-21643963678?ref=ebapi)
+**Where:** United States,San Francisco
+
+**When:** 15th March 2016
+
+
+## [Codemotion Roma 2016](http://rome2016.codemotionworld.com/)
+**Where:** ItalyItaly,Rome
+
+**When:** 18th–19th March 2016
+
+
+## [Phase 0 Virtual Information Session](https://www.eventbrite.com/e/phase-0-virtual-information-session-tickets-22308315773)
+**Where:** Online conference
+
+**When:** 19th March 2016
+
+
+## [Workshop: Building JavaScript Applications with ReactJS](http://www.whiteoctoberevents.co.uk/event/reactjs-workshop-march-16/)
+**Where:** England,London
+
+**When:** 21st March 2016
+
+
+## [Dev Bootcamp March Virtual Info Session](https://www.eventbrite.com/e/dev-bootcamp-march-virtual-info-session-tickets-22477541933)
+**Where:** Online conference
+
+**When:** 24th March 2016
+
+
+## [Meet the TAG - London]()
+**Where:** England,London
+
+**When:** 29th March 2016, 6pm
+
+
+## [RWD Summit 2016](http://environmentsforhumans.com/2016/responsive-web-design-summit/)
+**Where:** Online conference
+
+**When:** 29th–31st March 2016
+
+
+## [Ancient City Ruby 2016]()
+**Where:** United States,St. Augustine
+
+**When:** 6th–8th April 2016
+
+
+## [Lone Star PHP 2016]()
+**Where:** United States,Addison
+
+**When:** 7th–9th April 2016
+
+
+## [Building a Real-time App with React and Firebase]()
+**Where:** Online conference
+
+**When:** 7th April 2016, 9am
+
+
+## [CoderDojo Nürnberg #1]()
+**Where:** Germany,Nuremberg
+
+**When:** 10th April 2016, 4pm
+
+
+## [Nürnberg Web Week 2016]()
+**Where:** Germany,Nuremberg
+
+**When:** 11th–18th April 2016
+
+
+## [Accessibility Club #3](http://accessibility-club.org/)
+**Where:** Germany,Nürnberg
+
+**When:** 12th April 2016
+
+
+## [Peers Conference 2016](http://peersconf.com/)
+**Where:** United States,St. Petersburg
+
+**When:** 13th–15th April 2016
+
+
+## [Digital Croydon #8 Laura Elizabeth, Jason Bootle, Amy Whitney]()
+**Where:** England,London Borough of Croydon
+
+**When:** 14th April 2016, 6:30pm
+
+
+## [Using External Plugins with React](http://www.oreilly.com/online-training/react-for-web-developers.html)
+**Where:** Online conference
+
+**When:** 14th April 2016, 9am
+
+
+## [Hexagon Geospatial IGNITE Session - Atlanta](https://www.eventbrite.com/e/hexagon-geospatial-ignite-session-atlanta-tickets-22668441920?ref=ebapi)
+**Where:** United States,Norcross
+
+**When:** 15th April 2016, 9am
+
+
+## [2016 DC-Baltimore Perl Workshop](http://dcbpw.org/dcbpw2016/)
+**Where:** United States,Balitmore
+
+**When:** 16th–17th April 2016
+
+
+## [Workshop: Rapid API development with Node.js and LoopBack]()
+**Where:** England,Oxford
+
+**When:** 20th April 2016
+
+
+## [Render 2016]()
+**Where:** England,Oxford
+
+**When:** 21st–22nd April 2016
+
+
+## [Generate New York 2016]()
+**Where:** United States,New York
+
+**When:** 22nd April 2016, 9am
+
+
+## [JET Conference]()
+**Where:** Belarus,Minsk
+
+**When:** 25th April 2016, 10am
+
+
+## [Workshop: Angular 2]()
+**Where:** England,London
+
+**When:** 29th April 2016
+
