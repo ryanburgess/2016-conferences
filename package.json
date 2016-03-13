@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/ryanburgess/2016-conferences/issues"
   },
-  "homepage": "https://github.com/ryanburgess/2016-conferences#readme"
+  "homepage": "https://github.com/ryanburgess/2016-conferences#readme",
+  "dependencies": {
+    "rx": "^4.1.0"
+  }
 }
