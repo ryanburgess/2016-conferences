@@ -199,6 +199,12 @@ A list of 2016 web development conferences.
 **When:** March 17–18, 2016
 
 
+## [Ruby Remote Conf](https://allremoteconfs.com/ruby-2016)
+**Where:** Online
+
+**When:** March 23-25, 2016
+
+
 ## [EmberConf 2016](http://emberconf.com/)
 **Where:** Portland, OR, USA
 
