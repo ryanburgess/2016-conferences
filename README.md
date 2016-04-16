@@ -199,6 +199,12 @@ A list of 2016 web development conferences.
 **When:** March 17–18, 2016
 
 
+## [Ruby Remote Conf](https://allremoteconfs.com/ruby-2016)
+**Where:** Online
+
+**When:** March 23-25, 2016
+
+
 ## [EmberConf 2016](http://emberconf.com/)
 **Where:** Portland, OR, USA
 
@@ -379,6 +385,7 @@ A list of 2016 web development conferences.
 **When:** May 6–7, 2016
 
 
+<<<<<<< HEAD
 ## [beyond tellerrand (BTconf) // Dusseldorf 2016](http://beyondtellerrand.com/)
 **Where:** Dusseldorf, Germany
 
@@ -703,12 +710,6 @@ A list of 2016 web development conferences.
 **When:** 20th April 2016
 
 
-## [Render 2016]()
-**Where:** England,Oxford
-
-**When:** 21st–22nd April 2016
-
-
 ## [Generate New York 2016]()
 **Where:** United States,New York
 
@@ -725,4 +726,448 @@ A list of 2016 web development conferences.
 **Where:** England,London
 
 **When:** 29th April 2016
+
+
+## [AltConf](http://www.alterconf.com/sessions/cape-town-south-africa)
+**Where:** Cape Town, South Africa
+
+**When:** 27 August, 2016
+
+
+## [UX Alive](http://www.uxalive.com/)
+**Where:** Istanbul, Turkey
+
+**When:** 11-13 May, 2016
+
+
+## [YGLF](http://yougottalovefrontend.com/#page-home)
+**Where:** Tel Aviv, Israel
+
+**When:** 27-28 June, 2016
+
+
+## [Generate Bangalore 2016](http://www.generateconf.com/)
+**Where:** Bangalore, India
+
+**When:** 25 November, 2016
+
+
+## [NDC Sydney](http://ndcsydney.com/)
+**Where:** Sydney, Australia
+
+**When:** 1-5 August, 2016
+
+
+## [Generate Sydney 2016](http://generateconf.com/)
+**Where:** Sydney Australia
+
+**When:** 5 September, 2016
+
+
+## [CSSConf Australia](http://2016.cssconf.com.au/)
+**Where:** Melbourne Australia
+
+**When:** 30 November, 2016
+
+
+## [Decompress](http://decompress.com.au/)
+**Where:** Melbourne, Australia
+
+**When:** 2 December, 2016
+
+
+## [JavaScript Frameworks Day 2016](http://frameworksdays.com/event/js-frameworks-day-2016)
+**Where:** Kiev, Ukraine
+
+**When:** 16 April, 2016
+
+
+## [Industry Conf](https://industryconf.com/)
+**Where:** Newcastle upon Tyne, England
+
+**When:** 20 April, 2016
+
+
+## [Render Conf](http://www.render-conf.com/)
+**Where:** Oxford, England
+
+**When:** 21-22 April, 2016
+
+
+## [JSUnconf](http://2016.jsunconf.eu/)
+**Where:** Hamburg, Germany
+
+**When:** 23-24 April, 2016
+
+
+## [Future of Web Design London](https://futureofwebdesign.com/london-2016/)
+**Where:** London, England
+
+**When:** 25-27 April, 2016
+
+
+## [JSDayES 2016](http://jsday.es/)
+**Where:** Madrid, Spain
+
+**When:** 29-30 April, 2016
+
+
+## [Beyond Tellerrand](http://beyondtellerrand.com/)
+**Where:** Düsseldorf, Germany
+
+**When:** 9-11 May, 2016
+
+
+## [CSSConf Budapest](http://cssconfbp.rocks/)
+**Where:** Budapest, Hungary
+
+**When:** 11 May, 2016
+
+
+## [jsday](http://2016.jsday.it/)
+**Where:** Verona, Italy
+
+**When:** 11-12 May, 2016
+
+
+## [JSConf Budapest](http://jsconfbp.com/)
+**Where:** Budapest, Hungary
+
+**When:** 12-13 May, 2016
+
+
+## [PhoneGap Day EU 2016](http://pgday.phonegap.com/eu2016/)
+**Where:** Amsterdam, Netherlands
+
+**When:** 19-20 May, 2016
+
+
+## [User Experience Lisbon](https://www.ux-lx.com/)
+**Where:** Lisbon, Portugal
+
+**When:** 24-27 May, 2016
+
+
+## [DevSum16](http://www.devsum.se/)
+**Where:** Stockholm, Sweden
+
+**When:** 25-27 May, 2016
+
+
+## [Frontend United](http://frontendunited.org/)
+**Where:** Ghent, Belgium
+
+**When:** 27-28 May, 2016
+
+
+## [CSSconf Nordic](http://cssconf.no/)
+**Where:** Oslo, Norway
+
+**When:** 1 June, 2016
+
+
+## [Web Rebels](https://www.webrebels.org/)
+**Where:** Oslo, Norway
+
+**When:** 2-3 June, 2016
+
+
+## [ReactEurope 2016](https://www.react-europe.org/)
+**Where:** Paris, France
+
+**When:** 2-3 June, 2016
+
+
+## [ScotlandJS 2016](http://scotlandjs.com/)
+**Where:** Edinburgh, Scotland
+
+**When:** 2-3 June, 2016
+
+
+## [JSCamp Romania](http://www.jscamp.ro/)
+**Where:** Bucharest, Romania
+
+**When:** 7 June, 2016
+
+
+## [UX Scotland](http://uxscotland.net/2016/)
+**Where:** Edinburgh, Scotland
+
+**When:** 8 June, 2016
+
+
+## [enterJS 2016](https://www.enterjs.de/)
+**Where:** Darmstadt, Germany
+
+**When:** 14-16 June, 2016
+
+
+## [CSS Day 2016](http://cssday.nl/)
+**Where:** Amsterdam, The Netherlands
+
+**When:** 16-17 June, 2016
+
+
+## [FullStack 2016](https://skillsmatter.com/conferences/7278-fullstack)
+**Where:** England, London
+
+**When:** 13–15 July 2016
+
+
+## [JSConf Iceland](http://2016.jsconf.is/)
+**Where:** Reykjavik, Iceland
+
+**When:** 25-26 August, 2016
+
+
+## [ColdFront 2016](https://2016.coldfrontconf.com/)
+**Where:** Copenhagen, Denmark
+
+**When:** 1 September, 2016
+
+
+## [Frontend Conference Zurich](https://frontendconf.ch/)
+**Where:** Zurich, Switzerland
+
+**When:** 1-2 September, 2016
+
+
+## [Full Stack Fest](http://2016.fullstackfest.com/)
+**Where:** Barcelona, Spain
+
+**When:** 5-9 September, 2016
+
+
+## [SmashingConf Freiburg 2016](http://smashingconf.com/)
+**Where:** Freiburg, Germany
+
+**When:** 12-13 September, 2016
+
+
+## [From the Front](http://2016.fromthefront.it/)
+**Where:** Bologna, Italy
+
+**When:** 15-16 September, 2016
+
+
+## [SmartWeb Conference 2016](http://www.smartwebconf.com/)
+**Where:** Bucharest, Romania
+
+**When:** 20 September, 2016
+
+
+## [Generate London 2016](http://generateconf.com/)
+**Where:** London England
+
+**When:** 21-23 September, 2016
+
+
+## [AngularConnect 2016](http://angularconnect.com/)
+**Where:** London, England
+
+**When:** 27-28 September, 2016
+
+
+## [ng-europe 2016](https://ngeurope.org/)
+**Where:** Paris, France
+
+**When:** 25-26 October, 2016
+
+
+## [Beyond Tellerrand](http://beyondtellerrand.com/)
+**Where:** Berlin Germany
+
+**When:** 7-9 November, 2016
+
+
+## [FrontierConf London 2016](https://www.frontierconf.com/)
+**Where:** London, England
+
+**When:** 16 November, 2016
+
+
+## [JS Kongress Munich](http://js-kongress.de/)
+**Where:** Munich, Germany
+
+**When:** 28-29 November, 2016
+
+
+## [dotCSS](http://www.dotcss.io/)
+**Where:** Paris, France
+
+**When:** 2 December, 2016
+
+
+## [dotJS](http://www.dotjs.io/)
+**Where:** Paris, France
+
+**When:** 5 December, 2016
+
+
+## [Empire JS](http://empirejs.org/)
+**Where:** New York City, New York USA
+
+**When:** April 26-27, 2016
+
+
+## [Squares Conference](http://squaresconference.com/)
+**Where:** Dallas (Grapevine), Texas USA
+
+**When:** April 27-29, 2016
+
+
+## [Future Insights Live](https://futureinsightslive.com/)
+**Where:** Chicago, Illinois USA
+
+**When:** May 2-5, 2016
+
+
+## [ng-conf](http://www.ng-conf.org/)
+**Where:** Salt Lake City, Utah USA
+
+**When:** May 4-6, 2016
+
+
+## [Syntax Convention](http://syntaxcon.com/)
+**Where:** Charleston, South Carolina USA
+
+**When:** May 6-7, 2016
+
+
+## [Front](http://www.frontutah.com/)
+**Where:** Salt Lake City, Utah USA
+
+**When:** May 12-13, 2016
+
+
+## [An Event Apart Boston](http://aneventapart.com/event/boston-2016)
+**Where:** Boston, Massachusetts USA
+
+**When:** May 16-18, 2016
+
+
+## [OSCON](http://conferences.oreilly.com/oscon/open-source-us)
+**Where:** Austin, Texas USA
+
+**When:** May 16-19, 2016
+
+
+## [Front End Design Conference](http://frontenddesignconference.com/)
+**Where:** St. Petersburg, Florida USA
+
+**When:** June 15-17, 2016
+
+
+## [Web Design Day](http://webdesignday.com)
+**Where:** Pittsburgh, Pennsylvania USA
+
+**When:** June 24, 2016
+
+
+## [Generate San Francisco 2016](http://generateconf.com/)
+**Where:** San Francisco, California USA
+
+**When:** July 15, 2016
+
+
+## [Dinosaur.js](http://dinosaurjs.org/)
+**Where:** Denver, Colorado USA
+
+**When:** June 24, 2016
+
+
+## [ForwardJS 5](http://forwardjs.com/)
+**Where:** San Francisco, California USA
+
+**When:** 25-31 July, 2016
+
+
+## [An Event Apart Washington D.C.](http://aneventapart.com/event/washington-dc-2016)
+**Where:** Washington, D.C. USA
+
+**When:** July 25-27, 2016
+
+
+## [Mobile & Web CodeCamp](http://www.mobilewebcodecamp.com/)
+**Where:** Salt Lake City, Utah USA
+
+**When:** July 28-29, 2016
+
+
+## [An Event Apart Chicago](http://aneventapart.com/event/chicago-2016)
+**Where:** Chicago, Illinois USA
+
+**When:** August 29-31, 2016
+
+
+## [An Event Apart Orlando](http://aneventapart.com/event/orlando-2016)
+**Where:** Orlando, Florida USA
+
+**When:** October 3-5, 2016
+
+
+## [LoopConf](https://loopconf.com/)
+**Where:** Fort Lauderdale, Florida USA
+
+**When:** October 5-7, 2016
+
+
+## [Full Stack Toronto](https://fsto.co/)
+**Where:** Toronto, Ontario Canada
+
+**When:** October 17-18, 2016
+
+
+## [CSS Dev Conf](http://2016.cssdevconf.com/)
+**Where:** San Antonio, Texas USA
+
+**When:** October 17-19, 2016
+
+
+## [An Event Apart San Francisco](http://aneventapart.com/event/san-francisco-2016)
+**Where:** San Francisco, California USA
+
+**When:** October 31-November 2, 2016
+
+
+## [SenchaCon 2016](http://www.senchacon.com/)
+**Where:** Las Vegas, Nevada USA
+
+**When:** November 7-9, 2016
+
+
+## [JSConf.UY](https://jsconf.uy/)
+**Where:** Montevideo, Uruguay
+
+**When:** 15-16 April, 2016
+
+
+## [RSJS](http://rsjs.org/2016/)
+**Where:** Porto Alegre, Brazil
+
+**When:** 23 April, 2016
+
+
+## [Front in Rio – HTML Edition](http://frontinrio.com.br/)
+**Where:** Rio de Janeiro, Brazil
+
+**When:** 30 April, 2016
+
+
+## [FrontinSampa](http://frontinsampa.com.br/)
+**Where:** São Paulo, Brazil
+
+**When:** 02 July, 2016
+
+
+## [CSSConf Argentina](http://cssconfar.com)
+**Where:** Buenos Aires, Argentina
+
+**When:** 7 August, 2016
+
+
+## [BrazilJS Conf](https://braziljs.org/conf)
+**Where:** Porto Alegre, Brazil
+
+**When:** 26-27 August, 2016
 
