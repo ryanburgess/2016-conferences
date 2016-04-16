@@ -1,6 +1,17 @@
 # 2016 Web Development Conferences
 A list of 2016 web development conferences.
 
+## Contributing1. Fork it
+2. Run `npm install`
+3. Add your conference to `list.json`
+4. Run `node index` to update `README.md` with your changes
+5. Create your feature branch (`git checkout -b my-new-feature`)
+6. Commit your changes (`git commit -am "Add some feature"`)
+7. Push to the branch (`git push origin my-new-feature`)
+8. Create new Pull Request
+
+#Conference List
+
 ## [JS Remote Conf](https://jsremoteconf.com/)
 **Where:** Online
 
@@ -667,12 +678,6 @@ A list of 2016 web development conferences.
 **When:** 12th April 2016
 
 
-## [Peers Conference 2016](http://peersconf.com/)
-**Where:** United States,St. Petersburg
-
-**When:** 13th–15th April 2016
-
-
 ## [Digital Croydon #8 Laura Elizabeth, Jason Bootle, Amy Whitney]()
 **Where:** England,London Borough of Croydon
 
@@ -701,12 +706,6 @@ A list of 2016 web development conferences.
 **Where:** England,Oxford
 
 **When:** 20th April 2016
-
-
-## [Render 2016]()
-**Where:** England,Oxford
-
-**When:** 21st–22nd April 2016
 
 
 ## [Generate New York 2016]()
@@ -835,18 +834,6 @@ A list of 2016 web development conferences.
 **When:** 12-13 May, 2016
 
 
-## [Front-Trends 2016](http://www.front-trends.com/)
-**Where:** Warsaw, Poland
-
-**When:** 18-20 May, 2016
-
-
-## [UX London 2016](http://2016.uxlondon.com/)
-**Where:** London, England
-
-**When:** 18-20 May, 2016
-
-
 ## [PhoneGap Day EU 2016](http://pgday.phonegap.com/eu2016/)
 **Where:** Amsterdam, Netherlands
 
@@ -871,20 +858,8 @@ A list of 2016 web development conferences.
 **When:** 27-28 May, 2016
 
 
-## [UpFront 2016](http://upfrontconf.com/)
-**Where:** Manchester, England
-
-**When:** 27 May, 2016
-
-
 ## [CSSconf Nordic](http://cssconf.no/)
 **Where:** Oslo, Norway
-
-**When:** 1 June, 2016
-
-
-## [ScotlandCSS 2016](http://scotlandcss.launchrock.com/)
-**Where:** Edinburgh, Scotland
 
 **When:** 1 June, 2016
 
@@ -1027,24 +1002,6 @@ A list of 2016 web development conferences.
 **When:** 5 December, 2016
 
 
-## [Peers Conference 2016](http://peersconf.com/)
-**Where:** St. Petersbury, Florida USA
-
-**When:** April 13-15, 2016
-
-
-## [Generate NYC 2016](http://generateconf.com/new-york-2016)
-**Where:** New York City, New York USA
-
-**When:** April 22, 2016
-
-
-## [Open Vis Conf](https://openvisconf.com/)
-**Where:** Boston, Massachusetts USA
-
-**When:** April 25-26, 2016
-
-
 ## [Empire JS](http://empirejs.org/)
 **Where:** New York City, New York USA
 
@@ -1075,12 +1032,6 @@ A list of 2016 web development conferences.
 **When:** May 6-7, 2016
 
 
-## [Create Upstate](http://createupstate.com/)
-**Where:** Syracuse, New York USA
-
-**When:** May 12-13, 2016
-
-
 ## [Front](http://www.frontutah.com/)
 **Where:** Salt Lake City, Utah USA
 
@@ -1097,12 +1048,6 @@ A list of 2016 web development conferences.
 **Where:** Austin, Texas USA
 
 **When:** May 16-19, 2016
-
-
-## [QCon New York 2016](https://qconnewyork.com/)
-**Where:** New York City, New York USA
-
-**When:** June 13-17, 2016
 
 
 ## [Front End Design Conference](http://frontenddesignconference.com/)
