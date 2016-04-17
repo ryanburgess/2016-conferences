@@ -12,7 +12,7 @@ A list of 2016 web development conferences.
 
 #Conference List
 
-## [JS Remote Conf](https://jsremoteconf.com/)
+## [JS Remote Conf](http://jsremoteconf.com/)
 **Where:** Online
 
 **When:** January 14–16, 2016
@@ -1168,4 +1168,10 @@ A list of 2016 web development conferences.
 **Where:** Porto Alegre, Brazil
 
 **When:** 26-27 August, 2016
+
+
+## [Wicked Good Ember Conf](https://wickedgoodember.com)
+**Where:** Boston, MA, USA
+
+**When:** 27-28 June, 2016
 
