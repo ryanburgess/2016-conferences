@@ -210,10 +210,24 @@
     "month": "March"
   },
   {
+    "title": "Dev Bootcamp San Francisco March Info Session",
+    "url": "https://www.eventbrite.com/…san-francisco-march-info-session-tickets-22132155874?ref=ebapi",
+    "where": "United States,San Francisco",
+    "when": "March 14th 2016",
+    "month": "March"
+  },
+  {
     "title": "MobileTech Conference Spring 2016",
     "url": "https://mobiletechcon.de/",
     "where": "Munich, Germany",
     "when": "March 14–17, 2016",
+    "month": "March"
+  },
+  {
+    "title": "Ruby for Beginners",
+    "url": "https://www.eventbrite.com/e/ruby-for-beginners-tickets-21643963678?ref=ebapi",
+    "where": "United States,San Francisco",
+    "when": "March 15th 2016",
     "month": "March"
   },
   {
@@ -230,6 +244,20 @@
     "when": "March 17–18, 2016",
     "month": "March"
   },
+  {
+    "title": "Codemotion Roma 2016",
+    "url": "http://rome2016.codemotionworld.com/",
+    "where": "ItalyItaly,Rome",
+    "when": "March 18th–19th 2016",
+    "month": "March"
+  },
+  {
+    "title": "Phase 0 Virtual Information Session",
+    "url": "https://www.eventbrite.com/e/phase-0-virtual-information-session-tickets-22308315773",
+    "where": "Online conference",
+    "when": "March 19th 2016",
+    "month": "March"
+  },  
   {
     "title": "Ruby Remote Conf",
     "url": "https://allremoteconfs.com/ruby-2016",
@@ -256,6 +284,34 @@
     "url": "http://uxinthecity.net/2016/oxford/",
     "where": "Oxford, UK",
     "when": "March 31–April 1, 2016",
+    "month": "March"
+  },
+  {
+    "title": "Workshop: Building JavaScript Applications with ReactJS",
+    "url": "http://www.whiteoctoberevents.co.uk/event/reactjs-workshop-march-16/",
+    "where": "England,London",
+    "when": "March 21st 2016",
+    "month": "March"
+  },
+  {
+    "title": "Dev Bootcamp March Virtual Info Session",
+    "url": "https://www.eventbrite.com/e/dev-bootcamp-march-virtual-info-session-tickets-22477541933",
+    "where": "Online conference",
+    "when": "March 24th 2016",
+    "month": "March"
+  },
+  {
+    "title": "Meet the TAG - London",
+    "url": "",
+    "where": "England,London",
+    "when": "March 29th 2016, 6pm",
+    "month": "March"
+  },
+  {
+    "title": "RWD Summit 2016",
+    "url": "http://environmentsforhumans.com/2016/responsive-web-design-summit/",
+    "where": "Online conference",
+    "when": "March 29th–31st 2016",
     "month": "March"
   },
   {
@@ -378,17 +434,95 @@
     "month": "April"
   },
   {
-    "title": "Industry Conf 2016",
-    "url": "http://2016.industryconf.com/",
-    "where": "Newcastle Upon Tyne, UK",
-    "when": "April 20, 2016",
+    "title": "JavaScript Frameworks Day 2016",
+    "url": "http://frameworksdays.com/event/js-frameworks-day-2016",
+    "where": "Kiev, Ukraine",
+    "when": "April 16, 2016",
+    "month": "April"
+  },
+  
+  {
+    "title": "Ancient City Ruby 2016",
+    "url": "",
+    "where": "United States,St. Augustine",
+    "when": "April 6th–8th 2016",
     "month": "April"
   },
   {
-    "title": "Render 2016",
-    "url": "http://www.render-conf.com/",
-    "where": "Oxford, UK",
-    "when": "April 21–22, 2016",
+    "title": "Lone Star PHP 2016",
+    "url": "",
+    "where": "United States,Addison",
+    "when": "April 7th–9th 2016",
+    "month": "April"
+  },
+  {
+    "title": "Building a Real-time App with React and Firebase",
+    "url": "",
+    "where": "Online conference",
+    "when": "April 7th 2016, 9am",
+    "month": "April"
+  },
+  {
+    "title": "CoderDojo Nürnberg #1",
+    "url": "",
+    "where": "Germany,Nuremberg",
+    "when": "April 10th 2016, 4pm",
+    "month": "April"
+  },
+  {
+    "title": "Nürnberg Web Week 2016",
+    "url": "",
+    "where": "Germany,Nuremberg",
+    "when": "April 11th–18th 2016",
+    "month": "April"
+  },
+  {
+    "title": "Accessibility Club #3",
+    "url": "http://accessibility-club.org/",
+    "where": "Germany,Nürnberg",
+    "when": "April 12th 2016",
+    "month": "April"
+  },
+  {
+    "title": "Digital Croydon #8 Laura Elizabeth, Jason Bootle, Amy Whitney",
+    "url": "",
+    "where": "England,London Borough of Croydon",
+    "when": "April 14th 2016, 6:30pm",
+    "month": "April"
+  },
+  {
+    "title": "Using External Plugins with React",
+    "url": "http://www.oreilly.com/online-training/react-for-web-developers.html",
+    "where": "Online conference",
+    "when": "April 14th 2016",
+    "month": "April"
+  },
+  {
+    "title": "Hexagon Geospatial IGNITE Session - Atlanta",
+    "url": "https://www.eventbrite.com/e/hexagon-geospatial-ignite-session-atlanta-tickets-22668441920?ref=ebapi",
+    "where": "United States,Norcross",
+    "when": "April 15th 2016",
+    "month": "April"
+  },
+  {
+    "title": "2016 DC-Baltimore Perl Workshop",
+    "url": "http://dcbpw.org/dcbpw2016/",
+    "where": "United States,Balitmore",
+    "when": "April 16th–17th 2016",
+    "month": "April"
+  },
+  {
+    "title": "Workshop: Rapid API development with Node.js and LoopBack",
+    "url": "",
+    "where": "England,Oxford",
+    "when": "April 20th 2016",
+    "month": "April"
+  },
+  {
+    "title": "Industry Conf",
+    "url": "https://industryconf.com/",
+    "where": "Newcastle upon Tyne, England",
+    "when": "April 20, 2016",
     "month": "April"
   },
   {
@@ -396,6 +530,13 @@
     "url": "http://mceconf.com/",
     "where": "Warsaw, Poland",
     "when": "April 21–22, 2016",
+    "month": "April"
+  },
+  {
+    "title": "Render Conf",
+    "url": "http://www.render-conf.com/",
+    "where": "Oxford, England",
+    "when": "April 21-22, 2016",
     "month": "April"
   },
   {
@@ -413,6 +554,27 @@
     "month": "April"
   },
   {
+    "title": "JSUnconf",
+    "url": "http://2016.jsunconf.eu/",
+    "where": "Hamburg, Germany",
+    "when": "April 23-24, 2016",
+    "month": "April"
+  },
+  {
+    "title": "JET Conference",
+    "url": "",
+    "where": "Belarus,Minsk",
+    "when": "April 25th 2016",
+    "month": "April"
+  },
+  {
+    "title": "Future of Web Design London",
+    "url": "https://futureofwebdesign.com/london-2016/",
+    "where": "London, England",
+    "when": "April 25-27, 2016",
+    "month": "April"
+  },
+  {
     "title": "Open Vis Conf",
     "url": "https://openvisconf.com/",
     "where": "Boston, MA, USA",
@@ -427,17 +589,24 @@
     "month": "April"
   },
   {
-    "title": "Empire JS",
-    "url": "http://empirejs.org/",
-    "where": "New York City, New York USA",
-    "when": "April 26-27, 2016",
-    "month": "April"
-  },
-  {
     "title": "Squares Conference",
     "url": "http://squaresconference.com/",
     "where": "Dallas (Grapevine), Texas USA",
     "when": "April 27-29, 2016",
+    "month": "April"
+  },
+  {
+    "title": "Workshop: Angular 2",
+    "url": "",
+    "where": "England,London",
+    "when": "April 29th 2016",
+    "month": "April"
+  },
+  {
+    "title": "JSDayES 2016",
+    "url": "http://jsday.es/",
+    "where": "Madrid, Spain",
+    "when": "April 29-30, 2016",
     "month": "April"
   },
   {
@@ -448,17 +617,17 @@
     "month": "April"
   },
   {
-    "title": "Future Insights Live, Chicago 2016",
-    "url": "http://futureinsightslive.com/",
-    "where": "Chicago, IL, USA",
-    "when": "May 2–5, 2016",
+    "title": "Future Insights Live",
+    "url": "https://futureinsightslive.com/",
+    "where": "Chicago, Illinois USA",
+    "when": "May 2-5, 2016",
     "month": "May"
   },
   {
-    "title": "NG-Conf 2016",
+    "title": "ng-conf",
     "url": "http://www.ng-conf.org/",
-    "where": "Salt Lake City, UT, USA",
-    "when": "May 4–6, 2016",
+    "where": "Salt Lake City, Utah USA",
+    "when": "May 4-6, 2016",
     "month": "May"
   },
   {
@@ -469,38 +638,66 @@
     "month": "May"
   },
   {
-    "title": "Syntax Convention 2016",
+    "title": "Syntax Convention",
     "url": "http://syntaxcon.com/",
-    "where": "Charleston, SC, USA",
-    "when": "May 6–7, 2016",
+    "where": "Charleston, South Carolina USA",
+    "when": "May 6-7, 2016",
     "month": "May"
   },
   {
-    "title": "DRUPALCON New Orleans 2016",
+    "title": "Beyond Tellerrand",
+    "url": "http://beyondtellerrand.com/",
+    "where": "Düsseldorf, Germany",
+    "when": "May 9-11, 2016",
+    "month": "May"
+  },
+  {
+    "title": "DRUPALCON",
     "url": "https://events.drupal.org/neworleans2016",
     "where": "New Orleans, LA, USA",
     "when": "May 9–13, 2016",
     "month": "May"
   },
   {
-    "title": "CSSConf Budapest 2016",
+    "title": "CSSConf Budapest",
     "url": "http://cssconfbp.rocks/",
     "where": "Budapest, Hungary",
     "when": "May 11, 2016",
     "month": "May"
   },
   {
-    "title": "JsDay 2016",
+    "title": "jsday",
+    "url": "http://2016.jsday.it/",
+    "where": "Verona, Italy",
+    "when": "May 11-12, 2016",
+    "month": "May"
+  },
+  {
+    "title": "UX Alive",
+    "url": "http://www.uxalive.com/",
+    "where": "Istanbul, Turkey",
+    "when": "May 11-13, 2016",
+    "month": "May"
+  },
+  {
+    "title": "JsDay",
     "url": "http://2016.jsday.it/",
     "where": "Verona, Italy",
     "when": "May 11–12, 2016",
     "month": "May"
   },
   {
-    "title": "UX Alive 2016",
+    "title": "UX Alive",
     "url": "http://www.uxalive.com/",
     "where": "Istanbul, Turkey",
     "when": "May 11–13, 2016",
+    "month": "May"
+  },
+  {
+    "title": "JSConf Budapest",
+    "url": "http://jsconfbp.com/",
+    "where": "Budapest, Hungary",
+    "when": "May 12-13, 2016",
     "month": "May"
   },
   {
@@ -511,52 +708,66 @@
     "month": "May"
   },
   {
-    "title": "Front 2016",
+    "title": "Front",
     "url": "http://www.frontutah.com/",
     "where": "Salt Lake City, UT, USA",
     "when": "May 12–13, 2016",
     "month": "May"
   },
   {
-    "title": "JSConf Budapest 2016",
+    "title": "JSConf Budapest",
     "url": "http://jsconfbp.com/",
     "where": "Budapest, Hungary",
     "when": "May 12–13, 2016",
     "month": "May"
   },
   {
-    "title": "phpDay 2016",
+    "title": "phpDay",
     "url": "http://2016.phpday.it/",
     "where": "Verona, Italy",
     "when": "May 13–14, 2016",
     "month": "May"
   },
   {
-    "title": "SDD 2016",
+    "title": "An Event Apart Boston",
+    "url": "http://aneventapart.com/event/boston-2016",
+    "where": "Boston, Massachusetts USA",
+    "when": "May 16-18, 2016",
+    "month": "May"
+  },
+  {
+    "title": "SDD Conf",
     "url": "http://www.sddconf.com/",
     "where": "London, UK",
     "when": "May 16–20, 2016",
     "month": "May"
   },
   {
-    "title": "OSCON 2016",
+    "title": "OSCON",
     "url": "http://conferences.oreilly.com/oscon/open-source-us",
     "where": "Austin, TX, USA",
     "when": "May 18–19, 2016",
     "month": "May"
   },
   {
-    "title": "UX London 2016",
+    "title": "UX London",
     "url": "http://2016.uxlondon.com/",
     "where": "London, UK",
     "when": "May 18–20, 2016",
     "month": "May"
   },
   {
-    "title": "Front-Trends 2016",
+    "title": "Front-Trends",
     "url": "http://front-trends.com/",
     "where": "Warsaw, Poland",
     "when": "May 18–20, 2016",
+    "month": "May"
+  },
+  {
+    "title": "PhoneGap Day EU 2016",
+    "url": "http://pgday.phonegap.com/eu2016/",
+    "where": "Amsterdam, Netherlands",
+    "when": "May 19-20, 2016",
     "month": "May"
   },
   {
@@ -567,17 +778,38 @@
     "month": "May"
   },
   {
-    "title": "GOTO Chicago 2016",
+    "title": "GOTO Chicago",
     "url": "http://gotocon.com/chicago-2016",
     "where": "Chicago, IL, USA",
     "when": "May 23–26, 2016",
     "month": "May"
   },
   {
-    "title": "UXLx – User Experience Lisbon 2016",
+    "title": "User Experience Lisbon",
     "url": "https://www.ux-lx.com/",
     "where": "Lisbon, Portugal",
-    "when": "May 24–27, 2016",
+    "when": "May 24-27, 2016",
+    "month": "May"
+  },
+  {
+    "title": "DevSum16",
+    "url": "http://www.devsum.se/",
+    "where": "Stockholm, Sweden",
+    "when": "May 25-27, 2016",
+    "month": "May"
+  },
+  {
+    "title": "Empire JS",
+    "url": "http://empirejs.org/",
+    "where": "New York City, New York USA",
+    "when": "May 26-27, 2016",
+    "month": "May"
+  },
+  {
+    "title": "Frontend United",
+    "url": "http://frontendunited.org/",
+    "where": "Ghent, Belgium",
+    "when": "May 27-28, 2016",
     "month": "May"
   },
   {
@@ -665,10 +897,10 @@
     "month": "June"
   },
   {
-    "title": "FrontEnd Design Conference 2016",
+    "title": "Front End Design Conference",
     "url": "http://frontenddesignconference.com/",
-    "where": "St. Petersburg, FL, USA",
-    "when": "June 15–17, 2016",
+    "where": "St. Petersburg, Florida USA",
+    "when": "June 15-17, 2016",
     "month": "June"
   },
   {
@@ -683,6 +915,20 @@
     "url": "http://www.developer-week.de/",
     "where": "Nuremberg, Germany",
     "when": "June 20–23, 2016",
+    "month": "June"
+  },
+  {
+    "title": "Dinosaur.js",
+    "url": "http://dinosaurjs.org/",
+    "where": "Denver, Colorado USA",
+    "when": "June 24, 2016",
+    "month": "June"
+  },
+  {
+    "title": "Web Design Day",
+    "url": "http://webdesignday.com",
+    "where": "Pittsburgh, Pennsylvania USA",
+    "when": "June 24, 2016",
     "month": "June"
   },
   {
@@ -712,314 +958,6 @@
     "where": "Boston, MA, USA",
     "when": "June 27-28, 2016",
     "month": "June"
-  },
-  {
-    "title": "Dev Bootcamp San Francisco March Info Session",
-    "url": "https://www.eventbrite.com/…san-francisco-march-info-session-tickets-22132155874?ref=ebapi",
-    "where": "United States,San Francisco",
-    "when": "March 14th 2016",
-    "month": "March"
-  },
-  {
-    "title": "Ruby for Beginners",
-    "url": "https://www.eventbrite.com/e/ruby-for-beginners-tickets-21643963678?ref=ebapi",
-    "where": "United States,San Francisco",
-    "when": "March 15th 2016",
-    "month": "March"
-  },
-  {
-    "title": "Codemotion Roma 2016",
-    "url": "http://rome2016.codemotionworld.com/",
-    "where": "ItalyItaly,Rome",
-    "when": "March 18th–19th 2016",
-    "month": "March"
-  },
-  {
-    "title": "Phase 0 Virtual Information Session",
-    "url": "https://www.eventbrite.com/e/phase-0-virtual-information-session-tickets-22308315773",
-    "where": "Online conference",
-    "when": "March 19th 2016",
-    "month": "March"
-  },
-  {
-    "title": "Workshop: Building JavaScript Applications with ReactJS",
-    "url": "http://www.whiteoctoberevents.co.uk/event/reactjs-workshop-march-16/",
-    "where": "England,London",
-    "when": "March 21st 2016",
-    "month": "March"
-  },
-  {
-    "title": "Dev Bootcamp March Virtual Info Session",
-    "url": "https://www.eventbrite.com/e/dev-bootcamp-march-virtual-info-session-tickets-22477541933",
-    "where": "Online conference",
-    "when": "March 24th 2016",
-    "month": "March"
-  },
-  {
-    "title": "Meet the TAG - London",
-    "url": "",
-    "where": "England,London",
-    "when": "March 29th 2016, 6pm",
-    "month": "March"
-  },
-  {
-    "title": "RWD Summit 2016",
-    "url": "http://environmentsforhumans.com/2016/responsive-web-design-summit/",
-    "where": "Online conference",
-    "when": "March 29th–31st 2016",
-    "month": "March"
-  },
-  {
-    "title": "Ancient City Ruby 2016",
-    "url": "",
-    "where": "United States,St. Augustine",
-    "when": "April 6th–8th 2016",
-    "month": "April"
-  },
-  {
-    "title": "Lone Star PHP 2016",
-    "url": "",
-    "where": "United States,Addison",
-    "when": "April 7th–9th 2016",
-    "month": "April"
-  },
-  {
-    "title": "Building a Real-time App with React and Firebase",
-    "url": "",
-    "where": "Online conference",
-    "when": "April 7th 2016, 9am",
-    "month": "April"
-  },
-  {
-    "title": "CoderDojo Nürnberg #1",
-    "url": "",
-    "where": "Germany,Nuremberg",
-    "when": "April 10th 2016, 4pm",
-    "month": "April"
-  },
-  {
-    "title": "Nürnberg Web Week 2016",
-    "url": "",
-    "where": "Germany,Nuremberg",
-    "when": "April 11th–18th 2016",
-    "month": "April"
-  },
-  {
-    "title": "Accessibility Club #3",
-    "url": "http://accessibility-club.org/",
-    "where": "Germany,Nürnberg",
-    "when": "April 12th 2016",
-    "month": "April"
-  },
-  {
-    "title": "Digital Croydon #8 Laura Elizabeth, Jason Bootle, Amy Whitney",
-    "url": "",
-    "where": "England,London Borough of Croydon",
-    "when": "April 14th 2016, 6:30pm",
-    "month": "April"
-  },
-  {
-    "title": "Using External Plugins with React",
-    "url": "http://www.oreilly.com/online-training/react-for-web-developers.html",
-    "where": "Online conference",
-    "when": "April 14th 2016",
-    "month": "April"
-  },
-  {
-    "title": "Hexagon Geospatial IGNITE Session - Atlanta",
-    "url": "https://www.eventbrite.com/e/hexagon-geospatial-ignite-session-atlanta-tickets-22668441920?ref=ebapi",
-    "where": "United States,Norcross",
-    "when": "April 15th 2016",
-    "month": "April"
-  },
-  {
-    "title": "2016 DC-Baltimore Perl Workshop",
-    "url": "http://dcbpw.org/dcbpw2016/",
-    "where": "United States,Balitmore",
-    "when": "April 16th–17th 2016",
-    "month": "April"
-  },
-  {
-    "title": "Workshop: Rapid API development with Node.js and LoopBack",
-    "url": "",
-    "where": "England,Oxford",
-    "when": "April 20th 2016",
-    "month": "April"
-  },
-  {
-    "title": "Generate New York 2016",
-    "url": "",
-    "where": "United States,New York",
-    "when": "April 22nd 2016",
-    "month": "April"
-  },
-  {
-    "title": "JET Conference",
-    "url": "",
-    "where": "Belarus,Minsk",
-    "when": "April 25th 2016",
-    "month": "April"
-  },
-  {
-    "title": "Workshop: Angular 2",
-    "url": "",
-    "where": "England,London",
-    "when": "April 29th 2016",
-    "month": "April"
-  },
-  {
-    "title": "AltConf",
-    "url": "http://www.alterconf.com/sessions/cape-town-south-africa",
-    "where": "Cape Town, South Africa",
-    "when": "August 27, 2016",
-    "month": "August"
-  },
-  {
-    "title": "UX Alive",
-    "url": "http://www.uxalive.com/",
-    "where": "Istanbul, Turkey",
-    "when": "May 11-13, 2016",
-    "month": "May"
-  },
-  {
-    "title": "YGLF",
-    "url": "http://yougottalovefrontend.com/#page-home",
-    "where": "Tel Aviv, Israel",
-    "when": "June 27-28, 2016",
-    "month": "June"
-  },
-  {
-    "title": "Generate Bangalore 2016",
-    "url": "http://www.generateconf.com/",
-    "where": "Bangalore, India",
-    "when": "November 25, 2016",
-    "month": "November"
-  },
-  {
-    "title": "NDC Sydney",
-    "url": "http://ndcsydney.com/",
-    "where": "Sydney, Australia",
-    "when": "August 1-5, 2016",
-    "month": "August"
-  },
-  {
-    "title": "Generate Sydney 2016",
-    "url": "http://generateconf.com/",
-    "where": "Sydney Australia",
-    "when": "September 5, 2016",
-    "month": "September"
-  },
-  {
-    "title": "CSSConf Australia",
-    "url": "http://2016.cssconf.com.au/",
-    "where": "Melbourne Australia",
-    "when": "November 30, 2016",
-    "month": "November"
-  },
-  {
-    "title": "Decompress",
-    "url": "http://decompress.com.au/",
-    "where": "Melbourne, Australia",
-    "when": "December 2, 2016",
-    "month": "December"
-  },
-  {
-    "title": "JavaScript Frameworks Day 2016",
-    "url": "http://frameworksdays.com/event/js-frameworks-day-2016",
-    "where": "Kiev, Ukraine",
-    "when": "April 16, 2016",
-    "month": "April"
-  },
-  {
-    "title": "Industry Conf",
-    "url": "https://industryconf.com/",
-    "where": "Newcastle upon Tyne, England",
-    "when": "April 20, 2016",
-    "month": "April"
-  },
-  {
-    "title": "Render Conf",
-    "url": "http://www.render-conf.com/",
-    "where": "Oxford, England",
-    "when": "April 21-22, 2016",
-    "month": "April"
-  },
-  {
-    "title": "JSUnconf",
-    "url": "http://2016.jsunconf.eu/",
-    "where": "Hamburg, Germany",
-    "when": "April 23-24, 2016",
-    "month": "April"
-  },
-  {
-    "title": "Future of Web Design London",
-    "url": "https://futureofwebdesign.com/london-2016/",
-    "where": "London, England",
-    "when": "April 25-27, 2016",
-    "month": "April"
-  },
-  {
-    "title": "JSDayES 2016",
-    "url": "http://jsday.es/",
-    "where": "Madrid, Spain",
-    "when": "April 29-30, 2016",
-    "month": "April"
-  },
-  {
-    "title": "Beyond Tellerrand",
-    "url": "http://beyondtellerrand.com/",
-    "where": "Düsseldorf, Germany",
-    "when": "May 9-11, 2016",
-    "month": "May"
-  },
-  {
-    "title": "CSSConf Budapest",
-    "url": "http://cssconfbp.rocks/",
-    "where": "Budapest, Hungary",
-    "when": "May 11, 2016",
-    "month": "May"
-  },
-  {
-    "title": "jsday",
-    "url": "http://2016.jsday.it/",
-    "where": "Verona, Italy",
-    "when": "May 11-12, 2016",
-    "month": "May"
-  },
-  {
-    "title": "JSConf Budapest",
-    "url": "http://jsconfbp.com/",
-    "where": "Budapest, Hungary",
-    "when": "May 12-13, 2016",
-    "month": "May"
-  },
-  {
-    "title": "PhoneGap Day EU 2016",
-    "url": "http://pgday.phonegap.com/eu2016/",
-    "where": "Amsterdam, Netherlands",
-    "when": "May 19-20, 2016",
-    "month": "May"
-  },
-  {
-    "title": "User Experience Lisbon",
-    "url": "https://www.ux-lx.com/",
-    "where": "Lisbon, Portugal",
-    "when": "May 24-27, 2016",
-    "month": "May"
-  },
-  {
-    "title": "DevSum16",
-    "url": "http://www.devsum.se/",
-    "where": "Stockholm, Sweden",
-    "when": "May 25-27, 2016",
-    "month": "May"
-  },
-  {
-    "title": "Frontend United",
-    "url": "http://frontendunited.org/",
-    "where": "Ghent, Belgium",
-    "when": "May 27-28, 2016",
-    "month": "May"
   },
   {
     "title": "CSSconf Nordic",
@@ -1078,6 +1016,20 @@
     "month": "June"
   },
   {
+    "title": "YGLF",
+    "url": "http://yougottalovefrontend.com/#page-home",
+    "where": "Tel Aviv, Israel",
+    "when": "June 27-28, 2016",
+    "month": "June"
+  },
+  {
+    "title": "FrontinSampa",
+    "url": "http://frontinsampa.com.br/",
+    "where": "São Paulo, Brazil",
+    "when": "July 02, 2016",
+    "month": "July"
+  },
+  {
     "title": "FullStack 2016",
     "url": "https://skillsmatter.com/conferences/7278-fullstack",
     "where": "England, London",
@@ -1085,10 +1037,73 @@
     "month": "July"
   },
   {
+    "title": "Generate San Francisco 2016",
+    "url": "http://generateconf.com/",
+    "where": "San Francisco, California USA",
+    "when": "July 15, 2016",
+    "month": "July"
+  },
+  {
+    "title": "An Event Apart Washington D.C.",
+    "url": "http://aneventapart.com/event/washington-dc-2016",
+    "where": "Washington, D.C. USA",
+    "when": "July 25-27, 2016",
+    "month": "July"
+  },
+  {
+    "title": "ForwardJS 5",
+    "url": "http://forwardjs.com/",
+    "where": "San Francisco, California USA",
+    "when": "July 25-31, 2016",
+    "month": "July"
+  },
+  {
+    "title": "Mobile & Web CodeCamp",
+    "url": "http://www.mobilewebcodecamp.com/",
+    "where": "Salt Lake City, Utah USA",
+    "when": "July 28-29, 2016",
+    "month": "July"
+  },
+  {
+    "title": "NDC Sydney",
+    "url": "http://ndcsydney.com/",
+    "where": "Sydney, Australia",
+    "when": "August 1-5, 2016",
+    "month": "August"
+  },
+  {
+    "title": "CSSConf Argentina",
+    "url": "http://cssconfar.com",
+    "where": "Buenos Aires, Argentina",
+    "when": "August 7, 2016",
+    "month": "August"
+  },
+  {
     "title": "JSConf Iceland",
     "url": "http://2016.jsconf.is/",
     "where": "Reykjavik, Iceland",
     "when": "August 25-26, 2016",
+    "month": "August"
+  },
+  {
+    "title": "BrazilJS Conf",
+    "url": "https://braziljs.org/conf",
+    "where": "Porto Alegre, Brazil",
+    "when": "August 26-27, 2016",
+    "month": "August"
+  },
+  {
+    "title": "AltConf",
+    "url": "http://www.alterconf.com/sessions/cape-town-south-africa",
+    "where": "Cape Town, South Africa",
+    "when": "August 27, 2016",
+    "month": "August"
+  },
+  {
+    "title": "An Event Apart Chicago",
+    "url": "http://aneventapart.com/event/chicago-2016",
+    "where": "Chicago, Illinois USA",
+    "when": "August 29-31, 2016",
     "month": "August"
   },
   {
@@ -1103,6 +1118,13 @@
     "url": "https://frontendconf.ch/",
     "where": "Zurich, Switzerland",
     "when": "September 1-2, 2016",
+    "month": "September"
+  },
+  {
+    "title": "Generate Sydney 2016",
+    "url": "http://generateconf.com/",
+    "where": "Sydney Australia",
+    "when": "September 5, 2016",
     "month": "September"
   },
   {
@@ -1190,6 +1212,13 @@
     "month": "October"
   },
   {
+    "title": "SenchaCon 2016",
+    "url": "http://www.senchacon.com/",
+    "where": "Las Vegas, Nevada USA",
+    "when": "November 7-9, 2016",
+    "month": "November"
+  },
+  {
     "title": "Beyond Tellerrand",
     "url": "http://beyondtellerrand.com/",
     "where": "Berlin Germany",
@@ -1204,11 +1233,32 @@
     "month": "November"
   },
   {
+    "title": "Generate Bangalore 2016",
+    "url": "http://www.generateconf.com/",
+    "where": "Bangalore, India",
+    "when": "November 25, 2016",
+    "month": "November"
+  },
+  {
     "title": "JS Kongress Munich",
     "url": "http://js-kongress.de/",
     "where": "Munich, Germany",
     "when": "November 28-29, 2016",
     "month": "November"
+  },
+  {
+    "title": "CSSConf Australia",
+    "url": "http://2016.cssconf.com.au/",
+    "where": "Melbourne Australia",
+    "when": "November 30, 2016",
+    "month": "November"
+  },
+  {
+    "title": "Decompress",
+    "url": "http://decompress.com.au/",
+    "where": "Melbourne, Australia",
+    "when": "December 2, 2016",
+    "month": "December"
   },
   {
     "title": "dotCSS",
@@ -1223,131 +1273,5 @@
     "where": "Paris, France",
     "when": "December 5, 2016",
     "month": "December"
-  },
-  {
-    "title": "Future Insights Live",
-    "url": "https://futureinsightslive.com/",
-    "where": "Chicago, Illinois USA",
-    "when": "May 2-5, 2016",
-    "month": "May"
-  },
-  {
-    "title": "ng-conf",
-    "url": "http://www.ng-conf.org/",
-    "where": "Salt Lake City, Utah USA",
-    "when": "May 4-6, 2016",
-    "month": "May"
-  },
-  {
-    "title": "Syntax Convention",
-    "url": "http://syntaxcon.com/",
-    "where": "Charleston, South Carolina USA",
-    "when": "May 6-7, 2016",
-    "month": "May"
-  },
-  {
-    "title": "Front",
-    "url": "http://www.frontutah.com/",
-    "where": "Salt Lake City, Utah USA",
-    "when": "May 12-13, 2016",
-    "month": "May"
-  },
-  {
-    "title": "An Event Apart Boston",
-    "url": "http://aneventapart.com/event/boston-2016",
-    "where": "Boston, Massachusetts USA",
-    "when": "May 16-18, 2016",
-    "month": "May"
-  },
-  {
-    "title": "OSCON",
-    "url": "http://conferences.oreilly.com/oscon/open-source-us",
-    "where": "Austin, Texas USA",
-    "when": "May 16-19, 2016",
-    "month": "May"
-  },
-  {
-    "title": "Front End Design Conference",
-    "url": "http://frontenddesignconference.com/",
-    "where": "St. Petersburg, Florida USA",
-    "when": "June 15-17, 2016",
-    "month": "June"
-  },
-  {
-    "title": "Web Design Day",
-    "url": "http://webdesignday.com",
-    "where": "Pittsburgh, Pennsylvania USA",
-    "when": "June 24, 2016",
-    "month": "June"
-  },
-  {
-    "title": "Generate San Francisco 2016",
-    "url": "http://generateconf.com/",
-    "where": "San Francisco, California USA",
-    "when": "July 15, 2016",
-    "month": "July"
-  },
-  {
-    "title": "Dinosaur.js",
-    "url": "http://dinosaurjs.org/",
-    "where": "Denver, Colorado USA",
-    "when": "June 24, 2016",
-    "month": "June"
-  },
-  {
-    "title": "ForwardJS 5",
-    "url": "http://forwardjs.com/",
-    "where": "San Francisco, California USA",
-    "when": "July 25-31, 2016",
-    "month": "July"
-  },
-  {
-    "title": "An Event Apart Washington D.C.",
-    "url": "http://aneventapart.com/event/washington-dc-2016",
-    "where": "Washington, D.C. USA",
-    "when": "July 25-27, 2016",
-    "month": "July"
-  },
-  {
-    "title": "Mobile & Web CodeCamp",
-    "url": "http://www.mobilewebcodecamp.com/",
-    "where": "Salt Lake City, Utah USA",
-    "when": "July 28-29, 2016",
-    "month": "July"
-  },
-  {
-    "title": "An Event Apart Chicago",
-    "url": "http://aneventapart.com/event/chicago-2016",
-    "where": "Chicago, Illinois USA",
-    "when": "August 29-31, 2016",
-    "month": "August"
-  },
-  {
-    "title": "SenchaCon 2016",
-    "url": "http://www.senchacon.com/",
-    "where": "Las Vegas, Nevada USA",
-    "when": "November 7-9, 2016",
-    "month": "November"
-  },
-  {
-    "title": "FrontinSampa",
-    "url": "http://frontinsampa.com.br/",
-    "where": "São Paulo, Brazil",
-    "when": "July 02, 2016",
-    "month": "July"
-  },
-  {
-    "title": "CSSConf Argentina",
-    "url": "http://cssconfar.com",
-    "where": "Buenos Aires, Argentina",
-    "when": "August 7, 2016",
-    "month": "August"
-  },
-  {
-    "title": "BrazilJS Conf",
-    "url": "https://braziljs.org/conf",
-    "where": "Porto Alegre, Brazil",
-    "when": "August 26-27, 2016",
-    "month": "August"
   }
 ]
