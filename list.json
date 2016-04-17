@@ -406,6 +406,13 @@
     "month": "April"
   },
   {
+    "title": "RSJS",
+    "url": "http://rsjs.org/2016/",
+    "where": "Porto Alegre, Brazil",
+    "when": "April 23, 2016",
+    "month": "April"
+  },
+  {
     "title": "Open Vis Conf",
     "url": "https://openvisconf.com/",
     "where": "Boston, MA, USA",
@@ -417,6 +424,27 @@
     "url": "http://www.m2mconference.com/",
     "where": "London, UK",
     "when": "April 26–27, 2016",
+    "month": "April"
+  },
+  {
+    "title": "Empire JS",
+    "url": "http://empirejs.org/",
+    "where": "New York City, New York USA",
+    "when": "April 26-27, 2016",
+    "month": "April"
+  },
+  {
+    "title": "Squares Conference",
+    "url": "http://squaresconference.com/",
+    "where": "Dallas (Grapevine), Texas USA",
+    "when": "April 27-29, 2016",
+    "month": "April"
+  },
+  {
+    "title": "Front in Rio – HTML Edition",
+    "url": "http://frontinrio.com.br/",
+    "where": "Rio de Janeiro, Brazil",
+    "when": "April 30, 2016",
     "month": "April"
   },
   {
@@ -679,6 +707,13 @@
     "month": "June"
   },
   {
+    "title": "Wicked Good Ember Conf",
+    "url": "https://wickedgoodember.com",
+    "where": "Boston, MA, USA",
+    "when": "June 27-28, 2016",
+    "month": "June"
+  },
+  {
     "title": "Dev Bootcamp San Francisco March Info Session",
     "url": "https://www.eventbrite.com/…san-francisco-march-info-session-tickets-22132155874?ref=ebapi",
     "where": "United States,San Francisco",
@@ -829,8 +864,8 @@
     "title": "Workshop: Angular 2",
     "url": "",
     "where": "England,London",
-    "when": "29th April 2016",
-    "month": "29th"
+    "when": "April 29th 2016",
+    "month": "April"
   },
   {
     "title": "AltConf",
@@ -1113,10 +1148,45 @@
     "month": "September"
   },
   {
+    "title": "An Event Apart Orlando",
+    "url": "http://aneventapart.com/event/orlando-2016",
+    "where": "Orlando, Florida USA",
+    "when": "October 3-5, 2016",
+    "month": "October"
+  },
+  {
+    "title": "LoopConf",
+    "url": "https://loopconf.com/",
+    "where": "Fort Lauderdale, Florida USA",
+    "when": "October 5-7, 2016",
+    "month": "October"
+  },
+  {
+    "title": "Full Stack Toronto",
+    "url": "https://fsto.co/",
+    "where": "Toronto, Ontario Canada",
+    "when": "October 17-18, 2016",
+    "month": "October"
+  },
+  {
+    "title": "CSS Dev Conf",
+    "url": "http://2016.cssdevconf.com/",
+    "where": "San Antonio, Texas USA",
+    "when": "October 17-19, 2016",
+    "month": "October"
+  },
+  {
     "title": "ng-europe 2016",
     "url": "https://ngeurope.org/",
     "where": "Paris, France",
     "when": "October 25-26, 2016",
+    "month": "October"
+  },
+  {
+    "title": "An Event Apart San Francisco",
+    "url": "http://aneventapart.com/event/san-francisco-2016",
+    "where": "San Francisco, California USA",
+    "when": "October 31-November 2, 2016",
     "month": "October"
   },
   {
@@ -1153,20 +1223,6 @@
     "where": "Paris, France",
     "when": "December 5, 2016",
     "month": "December"
-  },
-  {
-    "title": "Empire JS",
-    "url": "http://empirejs.org/",
-    "where": "New York City, New York USA",
-    "when": "April 26-27, 2016",
-    "month": "April"
-  },
-  {
-    "title": "Squares Conference",
-    "url": "http://squaresconference.com/",
-    "where": "Dallas (Grapevine), Texas USA",
-    "when": "April 27-29, 2016",
-    "month": "April"
   },
   {
     "title": "Future Insights Live",
@@ -1267,67 +1323,11 @@
     "month": "August"
   },
   {
-    "title": "An Event Apart Orlando",
-    "url": "http://aneventapart.com/event/orlando-2016",
-    "where": "Orlando, Florida USA",
-    "when": "October 3-5, 2016",
-    "month": "October"
-  },
-  {
-    "title": "LoopConf",
-    "url": "https://loopconf.com/",
-    "where": "Fort Lauderdale, Florida USA",
-    "when": "October 5-7, 2016",
-    "month": "October"
-  },
-  {
-    "title": "Full Stack Toronto",
-    "url": "https://fsto.co/",
-    "where": "Toronto, Ontario Canada",
-    "when": "October 17-18, 2016",
-    "month": "October"
-  },
-  {
-    "title": "CSS Dev Conf",
-    "url": "http://2016.cssdevconf.com/",
-    "where": "San Antonio, Texas USA",
-    "when": "October 17-19, 2016",
-    "month": "October"
-  },
-  {
-    "title": "An Event Apart San Francisco",
-    "url": "http://aneventapart.com/event/san-francisco-2016",
-    "where": "San Francisco, California USA",
-    "when": "October 31-November 2, 2016",
-    "month": "October"
-  },
-  {
     "title": "SenchaCon 2016",
     "url": "http://www.senchacon.com/",
     "where": "Las Vegas, Nevada USA",
     "when": "November 7-9, 2016",
     "month": "November"
-  },
-  {
-    "title": "JSConf.UY",
-    "url": "https://jsconf.uy/",
-    "where": "Montevideo, Uruguay",
-    "when": "April 15-16, 2016",
-    "month": "April"
-  },
-  {
-    "title": "RSJS",
-    "url": "http://rsjs.org/2016/",
-    "where": "Porto Alegre, Brazil",
-    "when": "April 23, 2016",
-    "month": "April"
-  },
-  {
-    "title": "Front in Rio – HTML Edition",
-    "url": "http://frontinrio.com.br/",
-    "where": "Rio de Janeiro, Brazil",
-    "when": "April 30, 2016",
-    "month": "April"
   },
   {
     "title": "FrontinSampa",
@@ -1349,12 +1349,5 @@
     "where": "Porto Alegre, Brazil",
     "when": "August 26-27, 2016",
     "month": "August"
-  },
-  {
-    "title": "Wicked Good Ember Conf",
-    "url": "https://wickedgoodember.com",
-    "where": "Boston, MA, USA",
-    "when": "June 27-28, 2016",
-    "month": "June"
   }
 ]

@@ -360,6 +360,12 @@ A list of 2016 web development conferences.
 **When:** April 22, 2016
 
 
+## [RSJS](http://rsjs.org/2016/)
+**Where:** Porto Alegre, Brazil
+
+**When:** April 23, 2016
+
+
 ## [Open Vis Conf](https://openvisconf.com/)
 **Where:** Boston, MA, USA
 
@@ -370,6 +376,24 @@ A list of 2016 web development conferences.
 **Where:** London, UK
 
 **When:** April 26–27, 2016
+
+
+## [Empire JS](http://empirejs.org/)
+**Where:** New York City, New York USA
+
+**When:** April 26-27, 2016
+
+
+## [Squares Conference](http://squaresconference.com/)
+**Where:** Dallas (Grapevine), Texas USA
+
+**When:** April 27-29, 2016
+
+
+## [Front in Rio – HTML Edition](http://frontinrio.com.br/)
+**Where:** Rio de Janeiro, Brazil
+
+**When:** April 30, 2016
 
 
 ## [Future Insights Live, Chicago 2016](http://futureinsightslive.com/)
@@ -594,6 +618,12 @@ A list of 2016 web development conferences.
 **When:** June 23–25, 2016
 
 
+## [Wicked Good Ember Conf](https://wickedgoodember.com)
+**Where:** Boston, MA, USA
+
+**When:** June 27-28, 2016
+
+
 ## [Dev Bootcamp San Francisco March Info Session](https://www.eventbrite.com/…san-francisco-march-info-session-tickets-22132155874?ref=ebapi)
 **Where:** United States,San Francisco
 
@@ -723,7 +753,7 @@ A list of 2016 web development conferences.
 ## [Workshop: Angular 2]()
 **Where:** England,London
 
-**When:** 29th April 2016
+**When:** April 29th 2016
 
 
 ## [AltConf](http://www.alterconf.com/sessions/cape-town-south-africa)
@@ -966,10 +996,40 @@ A list of 2016 web development conferences.
 **When:** September 27-28, 2016
 
 
+## [An Event Apart Orlando](http://aneventapart.com/event/orlando-2016)
+**Where:** Orlando, Florida USA
+
+**When:** October 3-5, 2016
+
+
+## [LoopConf](https://loopconf.com/)
+**Where:** Fort Lauderdale, Florida USA
+
+**When:** October 5-7, 2016
+
+
+## [Full Stack Toronto](https://fsto.co/)
+**Where:** Toronto, Ontario Canada
+
+**When:** October 17-18, 2016
+
+
+## [CSS Dev Conf](http://2016.cssdevconf.com/)
+**Where:** San Antonio, Texas USA
+
+**When:** October 17-19, 2016
+
+
 ## [ng-europe 2016](https://ngeurope.org/)
 **Where:** Paris, France
 
 **When:** October 25-26, 2016
+
+
+## [An Event Apart San Francisco](http://aneventapart.com/event/san-francisco-2016)
+**Where:** San Francisco, California USA
+
+**When:** October 31-November 2, 2016
 
 
 ## [Beyond Tellerrand](http://beyondtellerrand.com/)
@@ -1000,18 +1060,6 @@ A list of 2016 web development conferences.
 **Where:** Paris, France
 
 **When:** December 5, 2016
-
-
-## [Empire JS](http://empirejs.org/)
-**Where:** New York City, New York USA
-
-**When:** April 26-27, 2016
-
-
-## [Squares Conference](http://squaresconference.com/)
-**Where:** Dallas (Grapevine), Texas USA
-
-**When:** April 27-29, 2016
 
 
 ## [Future Insights Live](https://futureinsightslive.com/)
@@ -1098,58 +1146,10 @@ A list of 2016 web development conferences.
 **When:** August 29-31, 2016
 
 
-## [An Event Apart Orlando](http://aneventapart.com/event/orlando-2016)
-**Where:** Orlando, Florida USA
-
-**When:** October 3-5, 2016
-
-
-## [LoopConf](https://loopconf.com/)
-**Where:** Fort Lauderdale, Florida USA
-
-**When:** October 5-7, 2016
-
-
-## [Full Stack Toronto](https://fsto.co/)
-**Where:** Toronto, Ontario Canada
-
-**When:** October 17-18, 2016
-
-
-## [CSS Dev Conf](http://2016.cssdevconf.com/)
-**Where:** San Antonio, Texas USA
-
-**When:** October 17-19, 2016
-
-
-## [An Event Apart San Francisco](http://aneventapart.com/event/san-francisco-2016)
-**Where:** San Francisco, California USA
-
-**When:** October 31-November 2, 2016
-
-
 ## [SenchaCon 2016](http://www.senchacon.com/)
 **Where:** Las Vegas, Nevada USA
 
 **When:** November 7-9, 2016
-
-
-## [JSConf.UY](https://jsconf.uy/)
-**Where:** Montevideo, Uruguay
-
-**When:** April 15-16, 2016
-
-
-## [RSJS](http://rsjs.org/2016/)
-**Where:** Porto Alegre, Brazil
-
-**When:** April 23, 2016
-
-
-## [Front in Rio – HTML Edition](http://frontinrio.com.br/)
-**Where:** Rio de Janeiro, Brazil
-
-**When:** April 30, 2016
 
 
 ## [FrontinSampa](http://frontinsampa.com.br/)
@@ -1168,10 +1168,4 @@ A list of 2016 web development conferences.
 **Where:** Porto Alegre, Brazil
 
 **When:** August 26-27, 2016
-
-
-## [Wicked Good Ember Conf](https://wickedgoodember.com)
-**Where:** Boston, MA, USA
-
-**When:** June 27-28, 2016
 
