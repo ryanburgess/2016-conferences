@@ -1,7 +1,8 @@
 # 2016 Web Development Conferences
 A list of 2016 web development conferences.
 
-## Contributing1. Fork it
+## Contributing 
+1. Fork it
 2. Run `npm install`
 3. Add your conference to `list.json`
 4. Run `node index` to update `README.md` with your changes

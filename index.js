@@ -4,7 +4,7 @@ const obj = require('./list.json');
 const Rx = require('rx');
 let content = '# 2016 Web Development Conferences\nA list of 2016 web development conferences.\n\n';
 
-const contribute = ('## Contributing' +
+const contribute = ('## Contributing \n' +
 '1. Fork it\n' +
 '2. Run `npm install`\n' +
 '3. Add your conference to `list.json`\n' +
