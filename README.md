@@ -679,6 +679,12 @@ A list of 2016 web development conferences.
 **When:** May 20, 2016
 
 
+## [JandBeyong - An international Joomla! Conference](http://JandBeyong.org/)
+**Where:** Barcelona, Spain
+
+**When:** May 20-22, 2016
+
+
 ## [GOTO Chicago](http://gotocon.com/chicago-2016)
 **Where:** Chicago, IL, USA
 
