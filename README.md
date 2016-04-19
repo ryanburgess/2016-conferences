@@ -949,6 +949,12 @@ A list of 2016 web development conferences.
 **When:** August 25-26, 2016
 
 
+## [React Rally](http://www.reactrally.com/)
+**Where:** Salt Lake City, Utah
+
+**When:** August 25-26, 2016
+
+
 ## [BrazilJS Conf](https://braziljs.org/conf)
 **Where:** Porto Alegre, Brazil
 
