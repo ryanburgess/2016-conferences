@@ -805,6 +805,12 @@ A list of 2016 web development conferences.
 **When:** June 20–23, 2016
 
 
+## [KCDC](http://www.kcdc.info/#!/)
+**Where:** Kansas City, Utah
+
+**When:** June 22-24, 2016
+
+
 ## [Dinosaur.js](http://dinosaurjs.org/)
 **Where:** Denver, Colorado USA
 
