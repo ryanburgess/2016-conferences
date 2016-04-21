@@ -30,7 +30,15 @@
   },
   "homepage": "https://github.com/ryanburgess/2016-conferences#readme",
   "dependencies": {
+    "ghooks": "^1.2.1",
     "rx": "^4.1.0"
+  },
+  "config": {
+    "ghooks": {
+      "pre-commit": "node index",
+      "post-merge": "npm install",
+      "post-rewrite": "npm install"
+    }
   },
   "devDependencies": {
     "jsonfile": "^2.2.3"
