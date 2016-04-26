@@ -1,6 +1,6 @@
 {
   "name": "2016-conferences",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A list of 2016 web development conferences",
   "main": "index.js",
   "scripts": {
@@ -30,8 +30,7 @@
   },
   "homepage": "https://github.com/ryanburgess/2016-conferences#readme",
   "dependencies": {
-    "ghooks": "^1.2.1",
-    "rx": "^4.1.0"
+    "ghooks": "^1.2.1"
   },
   "config": {
     "ghooks": {
