@@ -22,7 +22,7 @@ const Observable = Rx.Observable;
 Observable.from(obj).subscribe(conference => {
   content += (
     `\n## [${conference.title}](${conference.url})
-**Where:** ${conference.where}
+**Where:** ${conference.where}\n
 **When:** ${conference.when}\n\n`
   );
 });
