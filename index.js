@@ -20,9 +20,11 @@ content += '\n#Conference List\n';
 
 const Observable = Rx.Observable;
 Observable.from(obj).subscribe(conference => {
-  content += `\n## [${conference.title}](${conference.url})\n`;
-  content += `**Where:** ${conference.where}\n\n`;
-  content += `**When:** ${conference.when}\n\n`;
+  content += (
+    `\n## [${conference.title}](${conference.url})
+**Where:** ${conference.where}
+**When:** ${conference.when}\n\n`
+  );
 });
 
 fs.writeFile('./README.md', content, function (err) {
