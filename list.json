@@ -243,7 +243,7 @@
     "title": "Dev Bootcamp San Francisco March Info Session",
     "url": "https://www.eventbrite.com/…san-francisco-march-info-session-tickets-22132155874?ref=ebapi",
     "where": "United States,San Francisco",
-    "when": "March 14th 2016",
+    "when": "March 14th, 2016",
     "month": "March",
     "submissionDeadline": ""
   },
@@ -259,7 +259,7 @@
     "title": "Ruby for Beginners",
     "url": "https://www.eventbrite.com/e/ruby-for-beginners-tickets-21643963678?ref=ebapi",
     "where": "United States,San Francisco",
-    "when": "March 15th 2016",
+    "when": "March 15th, 2016",
     "month": "March",
     "submissionDeadline": ""
   },
@@ -283,7 +283,7 @@
     "title": "Codemotion Roma 2016",
     "url": "http://rome2016.codemotionworld.com/",
     "where": "ItalyItaly,Rome",
-    "when": "March 18th–19th 2016",
+    "when": "March 18th–19th, 2016",
     "month": "March",
     "submissionDeadline": ""
   },
@@ -291,9 +291,9 @@
     "title": "Phase 0 Virtual Information Session",
     "url": "https://www.eventbrite.com/e/phase-0-virtual-information-session-tickets-22308315773",
     "where": "Online conference",
-    "when": "March 19th 2016",
+    "when": "March 19th, 2016",
     "month": "March"
-  },  
+  },
   {
     "title": "Ruby Remote Conf",
     "url": "https://allremoteconfs.com/ruby-2016",
@@ -330,7 +330,7 @@
     "title": "Workshop: Building JavaScript Applications with ReactJS",
     "url": "http://www.whiteoctoberevents.co.uk/event/reactjs-workshop-march-16/",
     "where": "England,London",
-    "when": "March 21st 2016",
+    "when": "March 21st, 2016",
     "month": "March",
     "submissionDeadline": ""
   },
@@ -338,7 +338,7 @@
     "title": "Dev Bootcamp March Virtual Info Session",
     "url": "https://www.eventbrite.com/e/dev-bootcamp-march-virtual-info-session-tickets-22477541933",
     "where": "Online conference",
-    "when": "March 24th 2016",
+    "when": "March 24th, 2016",
     "month": "March",
     "submissionDeadline": ""
   },
@@ -346,7 +346,7 @@
     "title": "Meet the TAG - London",
     "url": "",
     "where": "England,London",
-    "when": "March 29th 2016, 6pm",
+    "when": "March 29th, 2016, 6pm",
     "month": "March",
     "submissionDeadline": ""
   },
@@ -354,7 +354,7 @@
     "title": "RWD Summit 2016",
     "url": "http://environmentsforhumans.com/2016/responsive-web-design-summit/",
     "where": "Online conference",
-    "when": "March 29th–31st 2016",
+    "when": "March 29th–31st, 2016",
     "month": "March",
     "submissionDeadline": ""
   },
@@ -501,12 +501,11 @@
     "when": "April 16, 2016",
     "month": "April"
   },
-  
   {
     "title": "Ancient City Ruby 2016",
     "url": "",
     "where": "United States,St. Augustine",
-    "when": "April 6th–8th 2016",
+    "when": "April 6th–8th, 2016",
     "month": "April",
     "submissionDeadline": ""
   },
@@ -514,7 +513,7 @@
     "title": "Lone Star PHP 2016",
     "url": "",
     "where": "United States,Addison",
-    "when": "April 7th–9th 2016",
+    "when": "April 7th–9th, 2016",
     "month": "April",
     "submissionDeadline": ""
   },
@@ -522,7 +521,7 @@
     "title": "Building a Real-time App with React and Firebase",
     "url": "",
     "where": "Online conference",
-    "when": "April 7th 2016, 9am",
+    "when": "April 7th, 2016, 9am",
     "month": "April",
     "submissionDeadline": ""
   },
@@ -538,7 +537,7 @@
     "title": "Nürnberg Web Week 2016",
     "url": "",
     "where": "Germany,Nuremberg",
-    "when": "April 11th–18th 2016",
+    "when": "April 11th–18th, 2016",
     "month": "April",
     "submissionDeadline": ""
   },
@@ -546,7 +545,7 @@
     "title": "Accessibility Club #3",
     "url": "http://accessibility-club.org/",
     "where": "Germany,Nürnberg",
-    "when": "April 12th 2016",
+    "when": "April 12th, 2016",
     "month": "April",
     "submissionDeadline": ""
   },
@@ -554,7 +553,7 @@
     "title": "Digital Croydon #8 Laura Elizabeth, Jason Bootle, Amy Whitney",
     "url": "",
     "where": "England,London Borough of Croydon",
-    "when": "April 14th 2016, 6:30pm",
+    "when": "April 14th, 2016, 6:30pm",
     "month": "April",
     "submissionDeadline": ""
   },
@@ -562,7 +561,7 @@
     "title": "Using External Plugins with React",
     "url": "http://www.oreilly.com/online-training/react-for-web-developers.html",
     "where": "Online conference",
-    "when": "April 14th 2016",
+    "when": "April 14th, 2016",
     "month": "April",
     "submissionDeadline": ""
   },
@@ -570,7 +569,7 @@
     "title": "Hexagon Geospatial IGNITE Session - Atlanta",
     "url": "https://www.eventbrite.com/e/hexagon-geospatial-ignite-session-atlanta-tickets-22668441920?ref=ebapi",
     "where": "United States,Norcross",
-    "when": "April 15th 2016",
+    "when": "April 15th, 2016",
     "month": "April",
     "submissionDeadline": ""
   },
@@ -578,7 +577,7 @@
     "title": "2016 DC-Baltimore Perl Workshop",
     "url": "http://dcbpw.org/dcbpw2016/",
     "where": "United States,Balitmore",
-    "when": "April 16th–17th 2016",
+    "when": "April 16th–17th, 2016",
     "month": "April",
     "submissionDeadline": ""
   },
@@ -586,7 +585,7 @@
     "title": "Workshop: Rapid API development with Node.js and LoopBack",
     "url": "",
     "where": "England,Oxford",
-    "when": "April 20th 2016",
+    "when": "April 20th, 2016",
     "month": "April",
     "submissionDeadline": ""
   },
@@ -642,7 +641,7 @@
     "title": "JET Conference",
     "url": "",
     "where": "Belarus,Minsk",
-    "when": "April 25th 2016",
+    "when": "April 25th, 2016",
     "month": "April",
     "submissionDeadline": ""
   },
@@ -682,7 +681,7 @@
     "title": "Workshop: Angular 2",
     "url": "",
     "where": "England,London",
-    "when": "April 29th 2016",
+    "when": "April 29th, 2016",
     "month": "April",
     "submissionDeadline": ""
   },
