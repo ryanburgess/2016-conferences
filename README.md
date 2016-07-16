@@ -924,6 +924,12 @@ A list of 2016 web development conferences.
 **When:** July 25-31, 2016
 
 
+## [CSS Summit 2016](http://environmentsforhumans.com/2016/css-summit/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160726/20160728&text=CSS Summit 2016&location=online&details=http://environmentsforhumans.com/2016/css-summit/, Google Calendar)
+**Where:** online
+
+**When:** July 26-28, 2016
+
+
 ## [Mobile & Web CodeCamp](http://www.mobilewebcodecamp.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160728/20160729&text=Mobile & Web CodeCamp&location=Salt Lake City, Utah USA&details=http://www.mobilewebcodecamp.com/, Google Calendar)
 **Where:** Salt Lake City, Utah USA
 
