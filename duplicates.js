@@ -21,5 +21,5 @@ for (let i = 0; i < list.length; i++){
     duplicates.push(title);
   }
 }
-console.log(duplicates)
+console.log(duplicates);
 
