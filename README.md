@@ -1015,6 +1015,12 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **When:** September 15-16, 2016
 
 
+## [Strange Loop](http://www.thestrangeloop.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160915/20160917&text=Strange Loop&location=St. Louis, USA&details=http://www.thestrangeloop.com/, Google Calendar)
+**Where:** St. Louis, USA
+
+**When:** September 15-17, 2016
+
+
 ## [SmartWeb Conference 2016](http://www.smartwebconf.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20160920/20160920&text=SmartWeb Conference 2016&location=Bucharest, Romania&details=http://www.smartwebconf.com/, Google Calendar)
 **Where:** Bucharest, Romania
 
@@ -1067,6 +1073,12 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** San Francisco, California USA
 
 **When:** October 31-November 2, 2016
+
+
+## [Thunder Plains](http://thunderplainsconf.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20161103/20161104&text=Thunder Plains&location=Oklahoma City,  USA&details=http://thunderplainsconf.com/, Google Calendar)
+**Where:** Oklahoma City,  USA
+
+**When:** November 3-4, 2016
 
 
 ## [SenchaCon 2016](http://www.senchacon.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20161107/20161109&text=SenchaCon 2016&location=Las Vegas, Nevada USA&details=http://www.senchacon.com/, Google Calendar)

@@ -1334,6 +1334,14 @@
     "submissionDeadline": ""
   },
   {
+    "title": "Strange Loop",
+    "url": "http://www.thestrangeloop.com/",
+    "where": "St. Louis, USA",
+    "when": "September 15-17, 2016",
+    "month": "September",
+    "submissionDeadline": ""
+  },
+  {
     "title": "SmartWeb Conference 2016",
     "url": "http://www.smartwebconf.com/",
     "where": "Bucharest, Romania",
@@ -1403,6 +1411,14 @@
     "where": "San Francisco, California USA",
     "when": "October 31-November 2, 2016",
     "month": "October",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "Thunder Plains",
+    "url": "http://thunderplainsconf.com/",
+    "where": "Oklahoma City,  USA",
+    "when": "November 3-4, 2016",
+    "month": "November",
     "submissionDeadline": ""
   },
   {
