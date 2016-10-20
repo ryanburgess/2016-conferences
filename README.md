@@ -1063,6 +1063,12 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **When:** October 17-19, 2016
 
 
+## [Connect.Tech](http://connect-js.com/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20161020/20161022&text=Connect.Tech&location=Atlanta, Georgia USA&details=http://connect-js.com/, Google Calendar)
+**Where:** Atlanta, Georgia USA
+
+**When:** October 20-22, 2016
+
+
 ## [ng-europe 2016](https://ngeurope.org/) [📆](https://www.google.com/calendar/event?action=TEMPLATE&dates=20161025/20161026&text=ng-europe 2016&location=Paris, France&details=https://ngeurope.org/, Google Calendar)
 **Where:** Paris, France
 
